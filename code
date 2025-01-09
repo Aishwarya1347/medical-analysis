@@ -1,0 +1,134 @@
+import dash
+from dash import dcc, html
+from dash.dependencies import Input, Output
+import plotly.express as px
+import pandas as pd
+import webbrowser
+import threading
+import time
+
+# Load the dataset
+df = pd.read_csv("med analysis.csv")
+
+# Initialize the Dash app
+app = dash.Dash(__name__)
+
+# Layout for the app
+app.layout = html.Div([
+    html.H1("Medical Analysis Dashboard", style={'textAlign': 'center'}),
+    
+    # Dropdown to select the state
+    dcc.Dropdown(
+        id="state-dropdown",
+        options=[{'label': state, 'value': state} for state in df['State'].unique()],
+        value=df['State'].unique()[0],  # Default value
+        placeholder="Select a State",
+        style={'width': '50%', 'margin': 'auto'}
+    ),
+
+    # Create a row for the charts
+    html.Div([
+        html.Div([
+            dcc.Graph(id='medical-bar-chart'),
+        ], style={'width': '50%', 'display': 'inline-block'}),
+        
+        html.Div([
+            dcc.Graph(id='disease-distribution-chart'),
+        ], style={'width': '50%', 'display': 'inline-block'}),
+    ]),
+
+    html.Div([
+        dcc.Graph(id='yearly-trends-chart'),
+    ], style={'width': '100%'}),
+
+    # Add a pie chart section
+    html.Div([
+        dcc.Graph(id='disease-pie-chart'),
+    ], style={'width': '50%', 'margin': 'auto'}),
+
+    # Summary table
+    html.Div(id='summary-table', style={'marginTop': '20px', 'textAlign': 'center'})
+])
+
+# Callback to update dashboard elements
+@app.callback(
+    [
+        Output('medical-bar-chart', 'figure'),
+        Output('disease-distribution-chart', 'figure'),
+        Output('yearly-trends-chart', 'figure'),
+        Output('disease-pie-chart', 'figure'),  # Add output for the pie chart
+        Output('summary-table', 'children')
+    ],
+    [Input('state-dropdown', 'value')]
+)
+def update_dashboard(selected_state):
+    # Filter data based on selected state
+    state_data = df[df['State'] == selected_state]
+    
+    # Handle missing values
+    state_data.fillna(0, inplace=True)
+
+    # Bar Chart: Total deaths by disease
+    death_totals = state_data.groupby('Disease')['Deaths'].sum()
+    bar_chart_fig = px.bar(
+        death_totals,
+        x=death_totals.index,
+        y=death_totals.values,
+        labels={'x': 'Disease', 'y': 'Deaths'},
+        title="Total Deaths by Disease",
+        color=death_totals.index
+    )
+    bar_chart_fig.update_traces(texttemplate='%{y}', textposition='outside')
+
+    # Distribution Chart: Patients reported by hospital
+    hospital_totals = state_data.groupby('Hospitals_Involved')['Patients_Reported'].sum()
+    distribution_chart = px.bar(
+        hospital_totals,
+        x=hospital_totals.index,
+        y=hospital_totals.values,
+        title="Patients Reported by Hospitals",
+        labels={'x': 'Hospitals_Involved', 'y': 'Patients_Reported'}
+    )
+
+    # Yearly Trends Chart: Patients reported over years
+    yearly_trends = state_data.groupby('Year')['Patients_Reported'].sum().reset_index()
+    yearly_trends_chart = px.line(
+        yearly_trends,
+        x='Year',
+        y='Patients_Reported',
+        title="Yearly Trends of Patients Reported",
+        markers=True
+    )
+
+    # Pie Chart: Proportion of deaths by disease
+    pie_chart_fig = px.pie(
+        death_totals.reset_index(),
+        names='Disease',
+        values='Deaths',
+        title="Proportion of Deaths by Disease"
+    )
+
+    # Summary Table
+    summary_data = pd.DataFrame({
+        'Disease': death_totals.index,
+        'Total Deaths': death_totals.values
+    })
+    summary_table = html.Table([
+        html.Thead(html.Tr([html.Th(col) for col in summary_data.columns])),
+        html.Tbody([
+            html.Tr([html.Td(summary_data.iloc[i][col]) for col in summary_data.columns])
+            for i in range(len(summary_data))
+        ])
+    ])
+
+    return bar_chart_fig, distribution_chart, yearly_trends_chart, pie_chart_fig, summary_table
+
+# Function to open the browser automatically
+def open_browser():
+    time.sleep(1)  # Wait for the server to start
+    webbrowser.open("http://127.0.0.1:8051/")  # Open the Dash app in the default browser
+
+# Run the app
+if __name__ == '__main__':
+    threading.Thread(target=open_browser).start()
+    app.run_server(debug=True, port=8051)
