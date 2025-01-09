@@ -1,0 +1,2001 @@
+﻿State,Disease,Year,Age_Group,Patients_Reported,Deaths,Hospitals_Involved
+Bihar,Hypertension,2016,21-30,180,15,18
+Karnataka,Diabetes,2016,31-40,611,36,4
+Maharashtra,HIV/AIDS,2000,41-50,539,55,25
+Bihar,Hypertension,2003,51-60,252,83,30
+Delhi,HIV/AIDS,2007,31-40,190,93,41
+Kerala,Hypertension,2020,0-10,882,93,50
+Kerala,Malaria,2008,0-10,202,17,40
+Bihar,Dengue,2005,21-30,923,22,31
+Tamil Nadu,Heart Disease,2018,31-40,642,30,47
+Uttar Pradesh,Heart Disease,2018,41-50,698,100,27
+Punjab,Dengue,2017,20-Nov,832,81,23
+Maharashtra,COVID-19,2002,21-30,682,61,35
+Delhi,Diabetes,2002,21-30,695,18,6
+Kerala,Cancer,2000,61+,376,31,37
+Tamil Nadu,HIV/AIDS,2001,51-60,308,10,50
+Kerala,Cancer,2014,41-50,563,67,12
+West Bengal,COVID-19,2016,31-40,733,78,19
+Tamil Nadu,Cancer,2013,0-10,869,53,22
+Gujarat,Cancer,2018,21-30,213,97,42
+Karnataka,Asthma,2016,20-Nov,595,53,17
+Uttar Pradesh,Dengue,2019,20-Nov,830,27,36
+Bihar,HIV/AIDS,2010,41-50,195,50,46
+Gujarat,Hypertension,2004,51-60,826,37,21
+Gujarat,COVID-19,2008,21-30,650,50,3
+Punjab,Malaria,2011,31-40,380,64,48
+Bihar,Heart Disease,2008,31-40,293,53,23
+Kerala,Heart Disease,2019,20-Nov,432,18,49
+Tamil Nadu,Malaria,2003,31-40,706,3,42
+Bihar,Asthma,2003,51-60,688,79,7
+Tamil Nadu,Malaria,2023,61+,287,36,46
+West Bengal,Asthma,2013,61+,639,93,16
+West Bengal,Asthma,2000,21-30,635,90,41
+Uttar Pradesh,Dengue,2000,61+,313,97,12
+Tamil Nadu,COVID-19,2016,31-40,613,73,28
+Delhi,Malaria,2005,21-30,618,70,44
+Kerala,Malaria,2000,21-30,380,73,15
+West Bengal,Diabetes,2010,31-40,10,15,40
+Karnataka,HIV/AIDS,2024,21-30,18,30,16
+Uttar Pradesh,HIV/AIDS,2021,61+,110,56,34
+Bihar,Diabetes,2024,41-50,22,46,8
+Bihar,Dengue,2004,41-50,848,85,50
+West Bengal,Hypertension,2009,41-50,774,22,48
+Punjab,Asthma,2017,61+,195,8,6
+Karnataka,Diabetes,2022,0-10,353,34,16
+Maharashtra,Asthma,2018,31-40,770,23,6
+Maharashtra,Diabetes,2008,20-Nov,657,66,17
+Bihar,HIV/AIDS,2011,21-30,801,34,49
+Delhi,HIV/AIDS,2014,0-10,376,25,47
+Karnataka,Heart Disease,2024,20-Nov,198,21,1
+Tamil Nadu,Cancer,2024,31-40,525,53,4
+Tamil Nadu,Hypertension,2015,21-30,522,88,44
+Uttar Pradesh,Diabetes,2002,61+,822,10,45
+Gujarat,Dengue,2001,21-30,59,71,41
+Gujarat,Tuberculosis,2013,41-50,328,80,23
+Karnataka,Asthma,2022,0-10,151,83,26
+Bihar,Diabetes,2018,0-10,55,68,44
+Gujarat,Heart Disease,2024,21-30,595,41,22
+Karnataka,Diabetes,2012,0-10,261,28,45
+Tamil Nadu,Heart Disease,2013,51-60,585,69,16
+Karnataka,HIV/AIDS,2005,0-10,951,30,11
+Gujarat,Dengue,2015,61+,147,18,14
+Punjab,Dengue,2011,21-30,424,15,7
+West Bengal,Hypertension,2023,20-Nov,973,45,49
+West Bengal,HIV/AIDS,2005,51-60,115,4,3
+Delhi,Asthma,2004,31-40,659,42,38
+Uttar Pradesh,HIV/AIDS,2003,31-40,267,23,20
+Maharashtra,Tuberculosis,2006,31-40,245,13,13
+Gujarat,Heart Disease,2012,0-10,973,51,3
+Tamil Nadu,COVID-19,2020,41-50,788,4,3
+Delhi,Diabetes,2002,21-30,834,30,11
+Uttar Pradesh,COVID-19,2015,0-10,98,9,19
+Karnataka,Tuberculosis,2014,0-10,550,61,49
+Maharashtra,Malaria,2000,41-50,501,50,37
+Karnataka,HIV/AIDS,2001,41-50,866,30,47
+Uttar Pradesh,Hypertension,2020,31-40,859,82,50
+Delhi,HIV/AIDS,2014,41-50,800,0,21
+Bihar,HIV/AIDS,2001,51-60,711,37,29
+Karnataka,Tuberculosis,2011,20-Nov,851,87,34
+Maharashtra,Heart Disease,2020,21-30,225,97,2
+Tamil Nadu,COVID-19,2023,0-10,743,62,42
+Maharashtra,Tuberculosis,2023,31-40,769,76,34
+West Bengal,Heart Disease,2014,41-50,500,73,5
+Delhi,Hypertension,2015,0-10,154,99,5
+Delhi,Diabetes,2023,51-60,855,89,41
+Maharashtra,Malaria,2017,41-50,299,41,50
+Bihar,Dengue,2016,0-10,426,16,25
+Delhi,Diabetes,2000,21-30,315,40,28
+Bihar,Tuberculosis,2024,0-10,970,24,14
+Punjab,COVID-19,2014,20-Nov,695,1,17
+West Bengal,Cancer,2008,20-Nov,397,11,28
+Tamil Nadu,Dengue,2020,61+,946,85,1
+Delhi,Asthma,2000,51-60,261,60,21
+Maharashtra,Malaria,2003,21-30,369,47,30
+Karnataka,Malaria,2015,61+,624,75,36
+Punjab,Cancer,2018,20-Nov,715,57,36
+Maharashtra,Heart Disease,2008,0-10,952,71,40
+Uttar Pradesh,COVID-19,2021,41-50,153,96,39
+Maharashtra,Malaria,2016,20-Nov,33,42,1
+Kerala,Hypertension,2022,41-50,369,3,9
+Gujarat,Hypertension,2006,31-40,524,86,13
+Kerala,Heart Disease,2017,20-Nov,868,60,13
+Gujarat,HIV/AIDS,2010,41-50,821,50,25
+West Bengal,Malaria,2001,41-50,78,30,16
+Gujarat,Heart Disease,2000,31-40,578,33,16
+Kerala,Heart Disease,2019,61+,457,43,32
+Delhi,HIV/AIDS,2023,31-40,564,73,43
+Gujarat,HIV/AIDS,2010,31-40,33,6,25
+Uttar Pradesh,Diabetes,2011,41-50,804,22,9
+Karnataka,COVID-19,2001,20-Nov,363,91,19
+Delhi,Cancer,2003,21-30,851,68,10
+Gujarat,Tuberculosis,2000,31-40,730,80,27
+Punjab,Asthma,2002,31-40,185,20,7
+Karnataka,Asthma,2020,61+,673,68,18
+Delhi,Hypertension,2023,51-60,628,75,42
+Kerala,Hypertension,2004,20-Nov,965,1,5
+Karnataka,Diabetes,2003,61+,141,22,3
+Bihar,Dengue,2016,61+,652,43,13
+West Bengal,COVID-19,2015,61+,452,89,45
+Karnataka,COVID-19,2004,21-30,169,55,7
+Gujarat,COVID-19,2022,0-10,35,37,13
+Delhi,Dengue,2014,51-60,945,26,43
+Delhi,HIV/AIDS,2022,51-60,679,71,18
+Tamil Nadu,Diabetes,2015,51-60,41,18,42
+West Bengal,Asthma,2001,20-Nov,323,73,34
+Karnataka,Heart Disease,2002,41-50,830,80,39
+Tamil Nadu,HIV/AIDS,2016,31-40,456,98,34
+Bihar,Tuberculosis,2019,41-50,673,55,28
+Maharashtra,Heart Disease,2010,21-30,579,25,12
+Karnataka,COVID-19,2014,31-40,987,38,50
+Gujarat,Hypertension,2023,41-50,905,68,49
+Kerala,Malaria,2016,31-40,557,71,50
+Delhi,Cancer,2023,41-50,640,16,22
+Punjab,HIV/AIDS,2019,21-30,254,81,13
+Delhi,Diabetes,2019,20-Nov,46,62,35
+Delhi,Heart Disease,2012,51-60,851,3,36
+Gujarat,Hypertension,2012,61+,536,60,25
+Tamil Nadu,Dengue,2005,61+,699,79,10
+Delhi,Heart Disease,2005,0-10,30,57,25
+Karnataka,Hypertension,2003,0-10,860,3,30
+Kerala,Asthma,2005,21-30,195,25,20
+Tamil Nadu,Hypertension,2019,20-Nov,670,86,44
+Gujarat,Diabetes,2016,51-60,109,73,23
+Uttar Pradesh,Cancer,2011,20-Nov,310,64,25
+Gujarat,Heart Disease,2008,20-Nov,23,92,44
+Delhi,Heart Disease,2021,51-60,802,81,38
+Maharashtra,HIV/AIDS,2004,31-40,98,44,21
+Tamil Nadu,Asthma,2013,31-40,743,16,39
+Maharashtra,Hypertension,2017,0-10,654,52,47
+Karnataka,Hypertension,2004,51-60,773,70,50
+Karnataka,HIV/AIDS,2021,41-50,946,59,26
+Gujarat,HIV/AIDS,2011,21-30,642,51,45
+Punjab,Cancer,2009,31-40,760,52,49
+Kerala,Tuberculosis,2019,21-30,199,87,18
+Karnataka,Asthma,2009,61+,736,96,19
+Karnataka,Malaria,2020,20-Nov,467,71,10
+Maharashtra,COVID-19,2001,20-Nov,498,9,38
+West Bengal,HIV/AIDS,2011,31-40,876,97,20
+Punjab,Cancer,2010,41-50,156,57,3
+Punjab,Tuberculosis,2017,20-Nov,92,53,42
+West Bengal,Diabetes,2015,20-Nov,479,58,4
+Bihar,Heart Disease,2002,61+,998,23,47
+Kerala,HIV/AIDS,2005,31-40,877,92,9
+Punjab,Cancer,2023,31-40,451,79,17
+Tamil Nadu,Asthma,2014,20-Nov,778,1,40
+Kerala,Hypertension,2007,61+,482,24,22
+Karnataka,Dengue,2024,51-60,285,65,44
+Maharashtra,Dengue,2023,51-60,435,81,6
+Uttar Pradesh,Asthma,2018,61+,307,14,42
+Uttar Pradesh,Cancer,2019,51-60,520,72,46
+Kerala,Heart Disease,2011,0-10,530,50,47
+Kerala,Heart Disease,2014,51-60,820,90,20
+Bihar,Malaria,2014,20-Nov,570,40,38
+Karnataka,COVID-19,2007,0-10,312,55,6
+Maharashtra,HIV/AIDS,2011,41-50,455,72,36
+West Bengal,Diabetes,2003,0-10,422,94,11
+Delhi,HIV/AIDS,2009,31-40,181,75,39
+Tamil Nadu,Asthma,2000,21-30,630,10,19
+Bihar,Diabetes,2003,51-60,817,63,16
+Karnataka,Malaria,2021,41-50,213,75,6
+Uttar Pradesh,COVID-19,2003,61+,596,33,41
+Maharashtra,Asthma,2020,61+,381,33,23
+Punjab,Asthma,2000,0-10,192,60,40
+Bihar,COVID-19,2016,0-10,608,7,1
+Punjab,Dengue,2019,0-10,61,18,1
+Karnataka,Malaria,2013,0-10,408,88,10
+Delhi,Hypertension,2014,0-10,989,51,45
+Kerala,Asthma,2002,31-40,813,19,42
+Karnataka,COVID-19,2016,61+,182,73,4
+Uttar Pradesh,COVID-19,2014,0-10,785,66,41
+Karnataka,Heart Disease,2005,31-40,904,93,26
+Kerala,Dengue,2002,31-40,522,40,41
+Delhi,Diabetes,2000,21-30,910,44,11
+Gujarat,Hypertension,2019,41-50,708,19,10
+Karnataka,Cancer,2012,20-Nov,162,73,43
+Maharashtra,Asthma,2003,41-50,273,68,16
+Karnataka,Hypertension,2003,31-40,631,22,50
+Maharashtra,Tuberculosis,2013,51-60,451,38,29
+Tamil Nadu,Hypertension,2016,41-50,522,92,41
+Uttar Pradesh,Asthma,2013,31-40,20,11,12
+Tamil Nadu,Cancer,2012,0-10,101,43,14
+Punjab,Tuberculosis,2022,21-30,763,29,10
+Uttar Pradesh,Hypertension,2012,41-50,885,62,48
+Gujarat,HIV/AIDS,2010,51-60,575,36,18
+West Bengal,COVID-19,2007,0-10,720,58,34
+Punjab,Malaria,2023,0-10,336,85,17
+Uttar Pradesh,Malaria,2020,20-Nov,111,27,42
+West Bengal,Cancer,2010,0-10,450,74,45
+Kerala,Malaria,2020,61+,531,59,33
+Kerala,Malaria,2005,61+,735,92,50
+Maharashtra,Tuberculosis,2009,31-40,92,0,26
+Karnataka,Malaria,2024,31-40,227,87,44
+Kerala,Hypertension,2010,51-60,104,37,49
+Uttar Pradesh,COVID-19,2015,0-10,641,20,42
+Maharashtra,COVID-19,2006,21-30,367,26,29
+Karnataka,Diabetes,2009,21-30,62,75,25
+Punjab,Asthma,2006,21-30,297,89,6
+Maharashtra,Heart Disease,2017,20-Nov,670,53,6
+West Bengal,Heart Disease,2005,20-Nov,189,39,30
+Tamil Nadu,Malaria,2005,31-40,795,38,5
+Uttar Pradesh,Tuberculosis,2015,31-40,659,12,45
+Gujarat,Hypertension,2004,0-10,55,54,46
+Tamil Nadu,Cancer,2017,20-Nov,993,76,27
+Tamil Nadu,Asthma,2000,51-60,557,3,20
+West Bengal,Dengue,2021,20-Nov,228,75,7
+Kerala,Tuberculosis,2022,61+,918,3,5
+Gujarat,COVID-19,2002,20-Nov,475,1,8
+Delhi,Diabetes,2000,41-50,414,38,35
+Punjab,Diabetes,2023,0-10,249,21,23
+Punjab,Heart Disease,2024,21-30,51,54,36
+Bihar,Hypertension,2002,61+,355,88,7
+Delhi,Hypertension,2008,31-40,257,58,36
+Punjab,Diabetes,2019,0-10,244,21,35
+Bihar,Tuberculosis,2010,0-10,597,32,16
+Delhi,Asthma,2017,31-40,669,57,7
+Punjab,Diabetes,2004,31-40,863,81,32
+Uttar Pradesh,Asthma,2013,61+,187,99,49
+Karnataka,HIV/AIDS,2002,61+,437,53,24
+Punjab,Dengue,2022,51-60,80,87,32
+Gujarat,Dengue,2009,31-40,818,53,9
+Bihar,Malaria,2000,0-10,391,68,17
+Bihar,COVID-19,2014,51-60,317,48,50
+Tamil Nadu,Cancer,2014,61+,812,45,1
+Karnataka,Malaria,2001,21-30,195,10,3
+Maharashtra,HIV/AIDS,2017,61+,641,5,27
+Karnataka,HIV/AIDS,2002,21-30,651,26,27
+Bihar,Heart Disease,2023,0-10,400,79,21
+Punjab,Dengue,2004,31-40,45,87,8
+Uttar Pradesh,COVID-19,2017,31-40,79,99,3
+Maharashtra,Diabetes,2003,51-60,370,80,20
+Karnataka,Cancer,2014,41-50,861,2,30
+Gujarat,Dengue,2010,21-30,970,68,30
+Delhi,Tuberculosis,2023,41-50,686,89,22
+West Bengal,Tuberculosis,2004,41-50,475,31,5
+West Bengal,Asthma,2023,61+,867,14,37
+Bihar,Dengue,2020,61+,279,38,20
+Gujarat,COVID-19,2023,61+,73,12,47
+Bihar,Cancer,2000,21-30,310,42,28
+West Bengal,Hypertension,2018,0-10,899,71,39
+Delhi,Heart Disease,2016,51-60,811,69,12
+Karnataka,COVID-19,2002,61+,814,62,24
+Gujarat,Diabetes,2009,51-60,128,2,45
+Karnataka,COVID-19,2000,31-40,281,77,43
+Kerala,COVID-19,2019,20-Nov,218,21,42
+Kerala,Cancer,2007,31-40,862,0,21
+Bihar,Tuberculosis,2017,0-10,933,58,20
+Maharashtra,Dengue,2007,61+,622,64,41
+Tamil Nadu,Hypertension,2019,21-30,179,18,38
+Gujarat,Tuberculosis,2017,61+,98,25,22
+Tamil Nadu,Heart Disease,2009,0-10,112,73,28
+Gujarat,Malaria,2012,61+,816,49,42
+West Bengal,Dengue,2006,21-30,992,91,4
+Uttar Pradesh,Asthma,2008,0-10,274,57,19
+Karnataka,Tuberculosis,2003,20-Nov,596,61,5
+Delhi,Dengue,2017,61+,69,85,22
+Punjab,COVID-19,2002,21-30,342,62,49
+Kerala,Malaria,2005,21-30,270,55,22
+Kerala,Diabetes,2008,31-40,337,8,37
+Maharashtra,COVID-19,2020,61+,448,66,43
+Bihar,HIV/AIDS,2019,31-40,250,94,1
+Bihar,Cancer,2019,61+,915,11,45
+Tamil Nadu,HIV/AIDS,2013,0-10,392,97,38
+Karnataka,Heart Disease,2020,0-10,862,27,29
+Punjab,Asthma,2016,41-50,720,74,38
+Karnataka,Diabetes,2022,31-40,614,20,17
+Uttar Pradesh,Malaria,2008,21-30,786,26,30
+Karnataka,Hypertension,2014,41-50,394,67,26
+Uttar Pradesh,COVID-19,2017,51-60,788,15,16
+Bihar,Cancer,2002,21-30,268,69,28
+Bihar,COVID-19,2012,51-60,813,85,33
+Kerala,Tuberculosis,2013,61+,252,91,16
+Gujarat,Cancer,2012,20-Nov,822,82,49
+Bihar,Dengue,2018,0-10,518,2,26
+Uttar Pradesh,Cancer,2006,21-30,664,97,13
+Punjab,Hypertension,2020,21-30,118,78,26
+Gujarat,Tuberculosis,2014,20-Nov,957,18,24
+Kerala,Cancer,2005,41-50,466,12,48
+West Bengal,Diabetes,2013,0-10,182,2,21
+Bihar,Dengue,2009,31-40,386,24,15
+Tamil Nadu,Diabetes,2007,61+,153,99,13
+Delhi,Cancer,2021,0-10,949,93,34
+Maharashtra,Tuberculosis,2000,41-50,123,79,27
+Bihar,COVID-19,2024,0-10,984,19,40
+Bihar,COVID-19,2008,41-50,670,49,31
+West Bengal,Hypertension,2019,41-50,702,6,11
+Karnataka,Cancer,2012,0-10,265,27,34
+Uttar Pradesh,Diabetes,2009,21-30,535,15,19
+Delhi,HIV/AIDS,2007,61+,489,12,14
+West Bengal,Tuberculosis,2008,21-30,429,17,15
+Uttar Pradesh,COVID-19,2023,41-50,798,84,25
+West Bengal,Hypertension,2014,0-10,694,20,47
+Punjab,Heart Disease,2012,41-50,904,64,31
+Gujarat,Heart Disease,2001,31-40,786,76,18
+Delhi,Asthma,2019,31-40,569,28,18
+Kerala,Malaria,2023,31-40,546,22,38
+Bihar,Heart Disease,2018,61+,996,58,48
+Maharashtra,Cancer,2020,41-50,936,2,3
+Gujarat,HIV/AIDS,2003,41-50,43,53,19
+Karnataka,Heart Disease,2001,0-10,73,23,39
+Karnataka,Tuberculosis,2017,21-30,312,52,4
+West Bengal,Tuberculosis,2005,51-60,398,51,43
+Uttar Pradesh,Diabetes,2013,41-50,397,82,8
+Karnataka,Heart Disease,2000,20-Nov,740,53,16
+Maharashtra,Malaria,2011,0-10,523,87,13
+Bihar,HIV/AIDS,2018,20-Nov,485,85,8
+Gujarat,Heart Disease,2012,20-Nov,675,78,12
+Delhi,Heart Disease,2010,51-60,576,3,43
+Bihar,Malaria,2021,0-10,324,17,38
+West Bengal,HIV/AIDS,2021,20-Nov,991,41,18
+Bihar,COVID-19,2009,20-Nov,257,26,14
+Punjab,Dengue,2003,31-40,901,79,6
+Punjab,Asthma,2024,21-30,747,41,30
+Karnataka,Cancer,2016,51-60,455,64,33
+West Bengal,Dengue,2005,0-10,330,10,2
+Karnataka,COVID-19,2000,31-40,493,51,2
+Uttar Pradesh,HIV/AIDS,2009,41-50,64,81,24
+Tamil Nadu,Tuberculosis,2010,51-60,439,30,43
+Bihar,Diabetes,2016,0-10,353,68,21
+Delhi,Asthma,2014,41-50,94,70,37
+Tamil Nadu,Asthma,2022,41-50,32,16,42
+Maharashtra,Diabetes,2003,21-30,220,4,40
+Delhi,Diabetes,2021,41-50,340,73,28
+Tamil Nadu,Cancer,2016,61+,184,27,8
+Maharashtra,Hypertension,2000,41-50,197,81,41
+West Bengal,Hypertension,2011,0-10,571,53,5
+Bihar,Malaria,2023,51-60,279,12,23
+Uttar Pradesh,HIV/AIDS,2016,61+,761,6,20
+Tamil Nadu,Cancer,2023,21-30,315,87,48
+Bihar,Cancer,2006,31-40,418,74,35
+Bihar,Cancer,2012,41-50,59,37,33
+Kerala,Asthma,2015,51-60,852,72,13
+Karnataka,HIV/AIDS,2003,41-50,230,31,49
+Uttar Pradesh,Dengue,2021,20-Nov,564,84,46
+Gujarat,Tuberculosis,2005,0-10,104,26,35
+Karnataka,Heart Disease,2017,61+,98,9,31
+Delhi,Diabetes,2015,51-60,322,8,32
+Maharashtra,Asthma,2002,0-10,540,49,29
+Delhi,Hypertension,2010,41-50,872,13,9
+Maharashtra,Hypertension,2024,41-50,689,51,14
+Uttar Pradesh,Tuberculosis,2021,31-40,147,51,31
+Maharashtra,COVID-19,2011,41-50,895,18,16
+Bihar,Dengue,2007,31-40,902,31,26
+Punjab,Tuberculosis,2003,0-10,96,94,13
+Gujarat,Asthma,2008,51-60,600,22,29
+Uttar Pradesh,Cancer,2006,0-10,773,27,6
+Kerala,HIV/AIDS,2008,61+,73,98,27
+Punjab,Asthma,2020,41-50,37,99,34
+Tamil Nadu,Hypertension,2021,20-Nov,856,5,47
+Maharashtra,Tuberculosis,2014,21-30,186,73,18
+Punjab,HIV/AIDS,2004,61+,206,65,35
+Karnataka,Heart Disease,2002,21-30,139,77,9
+Uttar Pradesh,Cancer,2010,41-50,116,63,11
+Uttar Pradesh,COVID-19,2017,20-Nov,990,57,47
+Punjab,Malaria,2000,61+,143,25,3
+West Bengal,Dengue,2018,31-40,770,80,35
+West Bengal,Hypertension,2021,41-50,474,14,29
+Delhi,Cancer,2003,31-40,419,26,16
+Kerala,Heart Disease,2019,61+,135,56,3
+Uttar Pradesh,Asthma,2003,20-Nov,764,4,22
+Delhi,Cancer,2021,21-30,467,9,32
+Maharashtra,Heart Disease,2016,0-10,481,64,25
+Uttar Pradesh,Hypertension,2016,0-10,215,71,4
+Maharashtra,HIV/AIDS,2004,31-40,672,15,28
+Uttar Pradesh,Dengue,2016,61+,936,100,6
+Tamil Nadu,Dengue,2024,41-50,880,55,29
+Tamil Nadu,Cancer,2022,41-50,73,1,8
+Bihar,COVID-19,2024,61+,103,43,39
+Bihar,Dengue,2011,51-60,431,71,37
+Tamil Nadu,Dengue,2004,51-60,297,69,37
+Punjab,Hypertension,2015,31-40,228,36,50
+Gujarat,Diabetes,2010,51-60,410,68,43
+Tamil Nadu,Malaria,2021,51-60,352,32,37
+Punjab,Heart Disease,2014,41-50,966,23,26
+Tamil Nadu,Dengue,2011,41-50,288,64,42
+Punjab,HIV/AIDS,2001,21-30,117,94,25
+Maharashtra,Diabetes,2015,31-40,569,29,21
+Bihar,Diabetes,2009,21-30,182,66,22
+Maharashtra,Malaria,2000,51-60,633,47,39
+Delhi,Diabetes,2019,20-Nov,778,69,43
+Karnataka,Diabetes,2009,0-10,820,99,8
+Karnataka,Cancer,2001,0-10,726,20,9
+Gujarat,Asthma,2009,41-50,835,3,47
+Gujarat,Tuberculosis,2010,41-50,798,90,38
+Uttar Pradesh,Tuberculosis,2002,21-30,837,5,2
+Delhi,Heart Disease,2015,20-Nov,333,51,14
+West Bengal,Dengue,2018,20-Nov,229,100,34
+Delhi,Asthma,2010,51-60,535,71,45
+Karnataka,Tuberculosis,2020,31-40,432,96,12
+Kerala,COVID-19,2005,0-10,509,25,26
+Maharashtra,Dengue,2022,61+,923,69,48
+Karnataka,Cancer,2020,51-60,267,94,49
+Maharashtra,Hypertension,2021,51-60,776,25,10
+Gujarat,Dengue,2011,31-40,43,43,37
+Punjab,Dengue,2013,61+,16,40,34
+Karnataka,Tuberculosis,2015,31-40,141,38,49
+Karnataka,Heart Disease,2003,0-10,255,99,40
+Tamil Nadu,COVID-19,2009,41-50,527,100,18
+Gujarat,Tuberculosis,2022,0-10,620,71,40
+Maharashtra,Tuberculosis,2001,61+,291,10,44
+Maharashtra,Cancer,2019,51-60,338,47,6
+Maharashtra,Malaria,2016,21-30,888,63,36
+Tamil Nadu,COVID-19,2021,0-10,47,24,3
+West Bengal,Dengue,2024,51-60,695,30,19
+Tamil Nadu,Malaria,2014,21-30,544,21,42
+West Bengal,Hypertension,2006,21-30,484,95,47
+Punjab,HIV/AIDS,2012,20-Nov,562,61,14
+Kerala,COVID-19,2024,21-30,874,74,13
+Tamil Nadu,COVID-19,2017,41-50,647,86,14
+Bihar,Diabetes,2021,20-Nov,648,46,50
+Karnataka,Dengue,2003,21-30,257,32,6
+Maharashtra,Heart Disease,2022,31-40,919,81,14
+Gujarat,Malaria,2018,51-60,342,67,14
+Karnataka,Asthma,2015,41-50,748,9,19
+Delhi,HIV/AIDS,2016,41-50,243,69,13
+Delhi,Cancer,2008,41-50,820,20,47
+Uttar Pradesh,Malaria,2023,20-Nov,255,23,30
+Uttar Pradesh,COVID-19,2012,20-Nov,376,75,44
+Uttar Pradesh,Malaria,2007,51-60,772,72,26
+Gujarat,Heart Disease,2002,21-30,251,72,17
+Gujarat,Cancer,2020,21-30,497,26,35
+Tamil Nadu,Cancer,2008,41-50,740,93,43
+Uttar Pradesh,Tuberculosis,2007,41-50,338,93,3
+Delhi,Dengue,2012,61+,914,74,49
+Punjab,Tuberculosis,2003,61+,552,86,3
+Uttar Pradesh,Diabetes,2011,0-10,305,56,49
+Maharashtra,Asthma,2020,31-40,634,6,28
+Delhi,COVID-19,2019,21-30,741,82,33
+Gujarat,Cancer,2003,41-50,986,79,34
+Bihar,Tuberculosis,2008,0-10,795,74,11
+Gujarat,COVID-19,2017,21-30,161,72,38
+Bihar,Malaria,2018,61+,299,34,7
+Kerala,HIV/AIDS,2010,31-40,916,82,1
+Maharashtra,Tuberculosis,2015,31-40,669,26,33
+West Bengal,Cancer,2017,0-10,268,17,50
+Gujarat,Hypertension,2019,21-30,766,6,22
+Kerala,Tuberculosis,2024,41-50,666,44,34
+Uttar Pradesh,Hypertension,2013,51-60,721,9,46
+Karnataka,Heart Disease,2023,21-30,180,19,38
+Punjab,Malaria,2001,41-50,548,47,41
+Maharashtra,Malaria,2005,61+,419,79,13
+Kerala,Heart Disease,2006,21-30,91,73,3
+Delhi,Hypertension,2020,51-60,470,28,11
+Bihar,Cancer,2004,61+,581,9,42
+Karnataka,Heart Disease,2010,20-Nov,613,55,39
+West Bengal,Hypertension,2024,61+,362,46,48
+Delhi,Malaria,2003,61+,898,91,48
+Uttar Pradesh,HIV/AIDS,2021,31-40,896,19,44
+Punjab,Cancer,2024,51-60,299,48,12
+Gujarat,Heart Disease,2008,41-50,336,40,11
+Kerala,Asthma,2008,21-30,820,99,4
+Tamil Nadu,Cancer,2017,21-30,694,90,46
+Delhi,Dengue,2005,61+,502,92,50
+Punjab,Cancer,2023,51-60,874,91,42
+Uttar Pradesh,Heart Disease,2000,51-60,906,43,14
+Maharashtra,Cancer,2010,21-30,42,74,19
+Kerala,Diabetes,2009,21-30,501,73,43
+Uttar Pradesh,Diabetes,2013,41-50,567,99,8
+West Bengal,Cancer,2003,31-40,207,41,26
+Punjab,Hypertension,2016,21-30,44,58,17
+Gujarat,Malaria,2024,41-50,825,41,2
+Kerala,Dengue,2000,31-40,840,33,3
+Kerala,Cancer,2002,61+,332,78,32
+Kerala,Dengue,2018,31-40,750,92,44
+Uttar Pradesh,HIV/AIDS,2011,21-30,821,22,47
+Bihar,Asthma,2003,41-50,751,43,2
+Kerala,Cancer,2002,51-60,764,39,16
+Uttar Pradesh,Dengue,2010,20-Nov,528,27,50
+Karnataka,COVID-19,2001,0-10,509,65,31
+Delhi,Tuberculosis,2023,20-Nov,86,7,26
+Kerala,Diabetes,2018,20-Nov,399,31,3
+West Bengal,Hypertension,2023,31-40,209,20,16
+Uttar Pradesh,COVID-19,2023,0-10,279,8,26
+Kerala,HIV/AIDS,2000,31-40,812,72,50
+Punjab,Cancer,2018,61+,695,23,31
+Delhi,Asthma,2007,21-30,113,1,48
+Gujarat,Malaria,2023,31-40,170,72,38
+Maharashtra,Cancer,2013,51-60,206,14,29
+Punjab,Hypertension,2005,0-10,802,30,8
+Uttar Pradesh,Malaria,2000,61+,130,33,47
+Kerala,Heart Disease,2008,41-50,389,73,42
+West Bengal,Dengue,2014,0-10,940,79,35
+Gujarat,Heart Disease,2012,0-10,589,55,11
+Delhi,Dengue,2020,21-30,433,98,42
+Delhi,Dengue,2018,31-40,709,65,44
+Kerala,Asthma,2017,21-30,868,10,2
+Uttar Pradesh,Heart Disease,2020,20-Nov,47,79,16
+Kerala,Hypertension,2023,0-10,221,45,8
+Punjab,Hypertension,2009,31-40,679,81,8
+Punjab,HIV/AIDS,2015,41-50,616,12,10
+West Bengal,Dengue,2009,51-60,816,98,46
+Kerala,HIV/AIDS,2022,21-30,552,31,20
+Punjab,Diabetes,2015,21-30,512,89,10
+Delhi,Dengue,2021,51-60,684,19,36
+Maharashtra,Cancer,2007,20-Nov,413,33,7
+Karnataka,HIV/AIDS,2015,21-30,169,13,18
+West Bengal,Diabetes,2004,61+,462,0,13
+Karnataka,Diabetes,2021,21-30,303,7,17
+Karnataka,Heart Disease,2008,0-10,668,67,25
+Punjab,Tuberculosis,2001,20-Nov,391,65,37
+Kerala,HIV/AIDS,2002,0-10,342,86,1
+Tamil Nadu,Asthma,2016,0-10,751,25,19
+Delhi,Asthma,2013,51-60,738,67,30
+Gujarat,Hypertension,2013,31-40,958,57,1
+West Bengal,Malaria,2009,31-40,456,3,27
+Kerala,Heart Disease,2007,20-Nov,41,0,49
+Maharashtra,Hypertension,2006,31-40,261,78,22
+Maharashtra,Malaria,2002,61+,734,43,31
+Tamil Nadu,Tuberculosis,2023,61+,129,53,11
+Tamil Nadu,Dengue,2012,61+,726,52,30
+Karnataka,Diabetes,2015,41-50,419,39,34
+Gujarat,Cancer,2009,51-60,992,19,2
+Maharashtra,Diabetes,2013,20-Nov,726,7,3
+Uttar Pradesh,Diabetes,2020,41-50,496,26,6
+Maharashtra,Diabetes,2009,20-Nov,564,83,11
+Delhi,Tuberculosis,2020,21-30,745,41,47
+Delhi,Hypertension,2001,0-10,835,39,30
+Maharashtra,Cancer,2000,20-Nov,12,75,7
+West Bengal,Heart Disease,2009,21-30,332,44,45
+Kerala,COVID-19,2021,41-50,320,7,17
+Punjab,Malaria,2000,41-50,567,43,1
+Kerala,Asthma,2020,20-Nov,428,97,9
+Tamil Nadu,Malaria,2016,41-50,408,18,50
+Delhi,Tuberculosis,2015,21-30,665,22,48
+West Bengal,Dengue,2005,41-50,492,32,49
+Punjab,Heart Disease,2011,20-Nov,372,97,23
+West Bengal,Asthma,2013,0-10,75,62,49
+Kerala,Diabetes,2024,21-30,287,92,41
+Delhi,Diabetes,2007,41-50,310,35,4
+Punjab,Cancer,2017,41-50,881,74,34
+Gujarat,Malaria,2020,61+,193,69,35
+Karnataka,Cancer,2014,41-50,957,38,3
+Tamil Nadu,COVID-19,2008,21-30,21,27,49
+Uttar Pradesh,Cancer,2024,41-50,501,4,13
+Uttar Pradesh,Malaria,2001,0-10,695,76,2
+Karnataka,Heart Disease,2013,41-50,817,87,27
+Delhi,COVID-19,2024,41-50,902,30,12
+Kerala,Diabetes,2024,21-30,221,15,48
+Uttar Pradesh,Dengue,2000,41-50,619,62,33
+West Bengal,Hypertension,2003,31-40,937,97,38
+Maharashtra,Malaria,2000,21-30,353,99,9
+West Bengal,Malaria,2021,21-30,247,72,28
+Kerala,Heart Disease,2000,20-Nov,332,73,30
+Punjab,Heart Disease,2011,31-40,91,59,7
+Karnataka,Diabetes,2019,20-Nov,699,36,29
+West Bengal,Tuberculosis,2020,31-40,448,8,45
+Delhi,Dengue,2007,0-10,108,13,18
+Tamil Nadu,HIV/AIDS,2012,51-60,457,77,8
+Uttar Pradesh,HIV/AIDS,2011,21-30,356,40,37
+West Bengal,Malaria,2006,41-50,578,9,7
+Karnataka,Tuberculosis,2009,0-10,431,5,33
+West Bengal,Tuberculosis,2004,41-50,78,83,44
+Uttar Pradesh,Hypertension,2002,21-30,513,2,36
+Punjab,COVID-19,2005,21-30,926,30,9
+Maharashtra,Heart Disease,2020,0-10,625,53,14
+Punjab,Malaria,2016,61+,447,45,21
+Tamil Nadu,Dengue,2013,21-30,730,75,34
+Bihar,Cancer,2018,61+,13,31,47
+West Bengal,COVID-19,2003,21-30,359,33,16
+Kerala,Tuberculosis,2019,0-10,896,4,45
+Kerala,Asthma,2023,20-Nov,295,64,14
+Gujarat,Asthma,2024,61+,556,61,27
+West Bengal,Dengue,2011,21-30,747,5,26
+Uttar Pradesh,Tuberculosis,2006,41-50,441,32,29
+Bihar,HIV/AIDS,2013,51-60,218,81,8
+Gujarat,Malaria,2003,31-40,327,44,23
+Kerala,HIV/AIDS,2002,21-30,676,76,22
+Delhi,Diabetes,2004,20-Nov,618,4,4
+Karnataka,Asthma,2000,0-10,686,25,49
+Gujarat,HIV/AIDS,2024,31-40,25,83,8
+Maharashtra,Malaria,2013,51-60,229,50,35
+Karnataka,Malaria,2010,51-60,330,9,18
+Kerala,Hypertension,2009,31-40,655,25,35
+Tamil Nadu,Cancer,2006,41-50,11,82,47
+Gujarat,Asthma,2014,0-10,154,98,18
+Karnataka,COVID-19,2008,31-40,49,1,47
+Gujarat,Heart Disease,2010,21-30,139,89,50
+Bihar,Malaria,2006,51-60,139,86,41
+Kerala,Asthma,2019,31-40,635,15,1
+Bihar,HIV/AIDS,2001,61+,242,63,33
+Kerala,Diabetes,2018,31-40,706,62,11
+West Bengal,Dengue,2000,61+,758,68,13
+Kerala,HIV/AIDS,2024,20-Nov,553,18,46
+Delhi,Asthma,2008,31-40,67,78,38
+Bihar,Diabetes,2014,21-30,331,2,22
+Karnataka,Hypertension,2023,21-30,205,90,23
+Bihar,Dengue,2014,21-30,54,48,11
+Delhi,HIV/AIDS,2000,21-30,374,19,2
+Gujarat,HIV/AIDS,2017,0-10,457,98,45
+Maharashtra,COVID-19,2017,41-50,318,74,50
+Karnataka,Cancer,2021,21-30,255,74,50
+Delhi,Diabetes,2005,41-50,896,28,12
+Kerala,Hypertension,2009,31-40,882,2,32
+Karnataka,HIV/AIDS,2002,61+,449,1,47
+West Bengal,Malaria,2018,21-30,160,75,40
+Uttar Pradesh,Tuberculosis,2019,51-60,334,57,18
+Karnataka,Tuberculosis,2009,61+,120,66,50
+Uttar Pradesh,Dengue,2006,61+,235,25,45
+Uttar Pradesh,Malaria,2001,31-40,452,96,19
+Karnataka,Cancer,2011,21-30,30,87,2
+Uttar Pradesh,Malaria,2018,0-10,356,1,26
+Delhi,Tuberculosis,2020,51-60,231,51,25
+Maharashtra,Malaria,2016,41-50,396,98,26
+Kerala,Tuberculosis,2019,41-50,134,90,30
+Karnataka,Tuberculosis,2005,41-50,701,15,48
+Delhi,Diabetes,2005,51-60,165,66,18
+Uttar Pradesh,Asthma,2001,41-50,641,42,18
+Uttar Pradesh,Tuberculosis,2008,21-30,717,58,38
+Gujarat,Asthma,2016,51-60,591,78,28
+Bihar,Tuberculosis,2005,31-40,322,24,6
+Uttar Pradesh,HIV/AIDS,2013,0-10,380,62,7
+Delhi,Hypertension,2003,41-50,684,49,41
+Gujarat,Heart Disease,2011,61+,99,78,25
+Delhi,Heart Disease,2008,41-50,588,46,3
+Gujarat,Malaria,2004,31-40,374,78,20
+Punjab,Dengue,2009,20-Nov,278,57,1
+Uttar Pradesh,Dengue,2005,31-40,690,13,21
+Maharashtra,Malaria,2004,31-40,543,9,41
+Gujarat,COVID-19,2021,21-30,315,87,32
+West Bengal,Heart Disease,2006,61+,335,44,10
+Maharashtra,Diabetes,2010,61+,476,92,43
+Delhi,Heart Disease,2017,51-60,670,69,24
+Tamil Nadu,Cancer,2000,31-40,728,34,1
+Bihar,Heart Disease,2024,31-40,230,35,15
+Gujarat,Malaria,2015,51-60,512,32,7
+Uttar Pradesh,HIV/AIDS,2018,21-30,599,1,32
+Maharashtra,Diabetes,2005,31-40,243,46,34
+West Bengal,HIV/AIDS,2022,20-Nov,203,10,13
+Punjab,Dengue,2017,21-30,209,53,34
+West Bengal,Diabetes,2012,21-30,117,97,36
+Delhi,Tuberculosis,2024,21-30,696,11,6
+Maharashtra,Hypertension,2021,51-60,994,23,15
+Bihar,Cancer,2004,51-60,882,64,15
+Tamil Nadu,Malaria,2004,31-40,740,59,2
+Maharashtra,Dengue,2011,0-10,608,43,5
+Kerala,HIV/AIDS,2000,61+,342,17,23
+Karnataka,Malaria,2016,0-10,821,8,16
+Tamil Nadu,Diabetes,2003,21-30,411,48,11
+Gujarat,Diabetes,2007,61+,241,46,15
+Gujarat,COVID-19,2001,20-Nov,573,87,12
+Gujarat,COVID-19,2005,21-30,419,57,7
+West Bengal,Hypertension,2023,51-60,764,60,34
+Punjab,HIV/AIDS,2018,61+,529,59,5
+Uttar Pradesh,HIV/AIDS,2019,0-10,923,61,42
+Bihar,Asthma,2009,61+,644,83,29
+Kerala,Tuberculosis,2021,31-40,947,53,44
+Gujarat,Malaria,2009,21-30,244,33,32
+West Bengal,Tuberculosis,2001,41-50,216,48,8
+West Bengal,HIV/AIDS,2007,21-30,300,54,27
+Kerala,Tuberculosis,2005,0-10,231,15,9
+Delhi,Asthma,2020,0-10,499,29,49
+Punjab,Heart Disease,2012,51-60,683,54,15
+Tamil Nadu,COVID-19,2000,0-10,903,97,39
+Maharashtra,Malaria,2006,61+,836,5,24
+Maharashtra,COVID-19,2015,41-50,719,77,29
+West Bengal,Tuberculosis,2016,41-50,324,24,49
+Bihar,Asthma,2010,0-10,169,38,50
+West Bengal,Heart Disease,2001,0-10,735,0,40
+Punjab,Tuberculosis,2023,51-60,324,20,33
+Bihar,Tuberculosis,2010,20-Nov,417,83,5
+Punjab,Dengue,2007,20-Nov,908,68,6
+Kerala,COVID-19,2024,41-50,449,16,10
+Uttar Pradesh,HIV/AIDS,2008,51-60,157,94,24
+Gujarat,COVID-19,2006,21-30,715,73,20
+West Bengal,Cancer,2011,0-10,416,46,21
+Bihar,Diabetes,2001,51-60,463,30,37
+Gujarat,Heart Disease,2010,41-50,347,9,43
+Karnataka,Cancer,2016,61+,557,19,14
+Kerala,COVID-19,2021,20-Nov,310,53,44
+Uttar Pradesh,Diabetes,2019,51-60,606,36,44
+Maharashtra,Cancer,2015,0-10,520,5,5
+Bihar,Malaria,2023,0-10,465,59,31
+Bihar,Diabetes,2004,31-40,51,76,6
+Karnataka,HIV/AIDS,2003,61+,360,84,34
+Delhi,Tuberculosis,2016,21-30,470,88,1
+Uttar Pradesh,Tuberculosis,2010,41-50,644,70,30
+Punjab,HIV/AIDS,2007,31-40,955,46,33
+Punjab,Heart Disease,2012,0-10,881,10,4
+Delhi,Cancer,2011,31-40,615,21,46
+Punjab,COVID-19,2021,51-60,927,20,31
+Kerala,Asthma,2008,31-40,877,12,49
+West Bengal,Heart Disease,2001,20-Nov,221,64,1
+Gujarat,COVID-19,2012,20-Nov,427,47,15
+Punjab,Hypertension,2021,0-10,665,22,47
+Uttar Pradesh,Malaria,2022,21-30,431,50,1
+Punjab,Dengue,2003,20-Nov,307,23,19
+Punjab,HIV/AIDS,2018,0-10,854,49,13
+Uttar Pradesh,COVID-19,2013,20-Nov,414,62,36
+Kerala,Tuberculosis,2008,61+,59,100,6
+Punjab,Diabetes,2006,31-40,811,36,6
+Uttar Pradesh,Asthma,2004,51-60,874,85,3
+Tamil Nadu,Hypertension,2001,20-Nov,151,3,10
+Delhi,Heart Disease,2001,61+,836,80,48
+Gujarat,HIV/AIDS,2022,61+,25,4,50
+Tamil Nadu,Malaria,2019,41-50,181,57,48
+Gujarat,Asthma,2020,51-60,130,79,50
+Delhi,Asthma,2008,61+,129,66,6
+Bihar,Cancer,2011,51-60,305,62,48
+West Bengal,Dengue,2018,51-60,101,50,12
+Uttar Pradesh,Hypertension,2023,0-10,24,91,21
+Gujarat,Asthma,2020,51-60,959,57,3
+West Bengal,COVID-19,2017,0-10,315,68,39
+Punjab,Diabetes,2017,0-10,394,18,20
+Maharashtra,Malaria,2023,31-40,674,58,35
+West Bengal,HIV/AIDS,2019,20-Nov,909,41,26
+Karnataka,Hypertension,2012,51-60,181,64,12
+West Bengal,Dengue,2020,31-40,472,2,47
+Maharashtra,COVID-19,2007,41-50,856,85,15
+Gujarat,Hypertension,2004,20-Nov,843,35,45
+Punjab,COVID-19,2008,51-60,333,48,40
+Uttar Pradesh,Asthma,2021,61+,31,50,5
+Kerala,HIV/AIDS,2020,61+,946,24,9
+Gujarat,Asthma,2006,0-10,605,80,4
+Gujarat,Malaria,2002,61+,235,52,35
+Gujarat,Asthma,2003,41-50,606,65,27
+Maharashtra,Diabetes,2011,31-40,618,70,40
+Maharashtra,Malaria,2017,51-60,403,6,32
+Delhi,Cancer,2014,41-50,637,38,32
+Delhi,Asthma,2009,61+,95,77,5
+Kerala,Heart Disease,2021,21-30,233,48,44
+Maharashtra,HIV/AIDS,2021,31-40,901,90,40
+Delhi,Heart Disease,2019,21-30,401,42,34
+Maharashtra,Heart Disease,2021,61+,747,96,9
+Kerala,Diabetes,2018,21-30,841,91,20
+Tamil Nadu,HIV/AIDS,2004,0-10,158,21,26
+Uttar Pradesh,Cancer,2013,0-10,273,26,44
+Gujarat,HIV/AIDS,2007,51-60,475,0,49
+Punjab,Diabetes,2008,41-50,233,98,2
+Delhi,HIV/AIDS,2002,41-50,570,76,9
+Kerala,Heart Disease,2006,61+,341,88,45
+Punjab,Diabetes,2009,20-Nov,693,2,37
+Tamil Nadu,Tuberculosis,2011,41-50,958,46,6
+Punjab,Malaria,2012,21-30,220,28,14
+Gujarat,Tuberculosis,2010,61+,728,70,40
+Uttar Pradesh,Diabetes,2018,31-40,705,25,7
+Kerala,Diabetes,2021,41-50,425,24,35
+Karnataka,Cancer,2020,0-10,227,54,50
+Bihar,Hypertension,2017,20-Nov,89,3,4
+Punjab,COVID-19,2022,51-60,846,75,46
+West Bengal,Tuberculosis,2009,51-60,378,77,31
+Uttar Pradesh,Diabetes,2020,51-60,203,96,49
+Bihar,Cancer,2002,20-Nov,620,42,2
+Punjab,Hypertension,2024,20-Nov,290,26,12
+Punjab,Dengue,2020,61+,249,81,34
+Delhi,Diabetes,2017,21-30,376,63,10
+Uttar Pradesh,Diabetes,2001,21-30,414,50,15
+West Bengal,Dengue,2013,0-10,523,98,37
+Delhi,HIV/AIDS,2008,20-Nov,189,71,13
+West Bengal,HIV/AIDS,2019,61+,182,71,26
+Delhi,Dengue,2014,21-30,969,54,28
+Bihar,Heart Disease,2005,31-40,941,99,21
+Delhi,Hypertension,2008,0-10,243,37,8
+Maharashtra,COVID-19,2007,41-50,434,6,38
+West Bengal,Malaria,2011,20-Nov,876,82,24
+Maharashtra,Cancer,2002,41-50,27,3,42
+Tamil Nadu,Diabetes,2020,0-10,707,84,50
+Maharashtra,Tuberculosis,2016,21-30,866,75,31
+Delhi,Asthma,2007,31-40,703,61,36
+Tamil Nadu,Diabetes,2022,21-30,27,36,10
+Uttar Pradesh,Hypertension,2011,21-30,761,82,1
+Uttar Pradesh,Hypertension,2000,31-40,509,11,46
+Tamil Nadu,Tuberculosis,2006,51-60,703,73,43
+Tamil Nadu,Hypertension,2001,51-60,394,76,36
+Bihar,COVID-19,2023,20-Nov,620,63,42
+West Bengal,Malaria,2008,61+,248,82,46
+Uttar Pradesh,Asthma,2016,21-30,130,81,13
+Karnataka,Dengue,2022,31-40,257,65,46
+Punjab,Tuberculosis,2011,51-60,982,93,47
+Uttar Pradesh,Asthma,2024,41-50,294,28,18
+Bihar,Hypertension,2014,20-Nov,207,60,36
+Bihar,HIV/AIDS,2009,21-30,468,38,39
+West Bengal,COVID-19,2011,61+,814,68,20
+West Bengal,Hypertension,2009,31-40,423,38,45
+Maharashtra,HIV/AIDS,2007,21-30,396,73,27
+Kerala,Malaria,2008,41-50,772,33,18
+Maharashtra,Hypertension,2021,20-Nov,211,48,9
+Karnataka,Malaria,2024,41-50,141,5,48
+Punjab,Heart Disease,2020,21-30,755,53,26
+Bihar,COVID-19,2012,0-10,512,97,7
+Punjab,Tuberculosis,2006,21-30,477,54,22
+Uttar Pradesh,Heart Disease,2007,61+,237,93,20
+West Bengal,Hypertension,2005,31-40,916,62,5
+West Bengal,Heart Disease,2001,0-10,147,52,34
+Gujarat,Diabetes,2000,20-Nov,343,28,10
+Gujarat,Hypertension,2000,61+,955,54,43
+Punjab,Diabetes,2022,51-60,811,45,26
+Tamil Nadu,Heart Disease,2018,0-10,999,99,21
+Maharashtra,HIV/AIDS,2023,21-30,612,85,5
+Karnataka,Malaria,2003,51-60,118,49,20
+Kerala,Dengue,2020,31-40,364,6,38
+Delhi,Cancer,2002,31-40,997,41,28
+Tamil Nadu,Cancer,2023,61+,639,7,35
+Uttar Pradesh,Tuberculosis,2011,51-60,801,1,22
+Uttar Pradesh,Asthma,2014,20-Nov,591,48,16
+Uttar Pradesh,HIV/AIDS,2011,20-Nov,406,43,34
+Karnataka,Tuberculosis,2001,21-30,730,58,42
+West Bengal,Dengue,2006,51-60,181,46,3
+Karnataka,Tuberculosis,2006,61+,575,4,4
+Tamil Nadu,Diabetes,2005,0-10,605,67,6
+West Bengal,COVID-19,2021,61+,606,1,16
+Delhi,Tuberculosis,2021,21-30,280,7,39
+Karnataka,Tuberculosis,2005,41-50,662,37,28
+West Bengal,Hypertension,2019,0-10,297,5,40
+Kerala,Heart Disease,2002,21-30,733,85,13
+Bihar,HIV/AIDS,2016,21-30,227,6,46
+Karnataka,HIV/AIDS,2020,21-30,368,62,30
+Kerala,Dengue,2004,41-50,709,53,13
+Karnataka,Heart Disease,2007,20-Nov,224,99,26
+Uttar Pradesh,HIV/AIDS,2017,51-60,807,76,4
+Bihar,Dengue,2008,41-50,778,27,18
+Kerala,Tuberculosis,2015,51-60,712,40,17
+Delhi,Cancer,2022,41-50,391,72,44
+Delhi,Tuberculosis,2022,31-40,717,64,49
+Delhi,Asthma,2024,21-30,604,73,7
+Delhi,Tuberculosis,2019,0-10,238,100,8
+Maharashtra,Heart Disease,2005,20-Nov,516,9,3
+West Bengal,HIV/AIDS,2014,20-Nov,106,95,41
+Bihar,Malaria,2000,20-Nov,743,31,33
+Tamil Nadu,Heart Disease,2021,21-30,178,11,31
+Gujarat,Hypertension,2016,61+,256,81,3
+Gujarat,COVID-19,2017,0-10,431,61,27
+West Bengal,Asthma,2015,31-40,530,94,21
+Karnataka,Diabetes,2004,21-30,928,80,5
+Gujarat,COVID-19,2006,0-10,987,64,12
+Bihar,Dengue,2023,61+,267,52,34
+Kerala,Hypertension,2004,0-10,329,41,26
+Tamil Nadu,Dengue,2009,20-Nov,941,60,10
+Tamil Nadu,Diabetes,2003,20-Nov,533,24,14
+Uttar Pradesh,Cancer,2003,31-40,583,97,22
+Punjab,Hypertension,2004,31-40,753,4,26
+Delhi,Tuberculosis,2003,21-30,270,39,40
+Bihar,Diabetes,2007,51-60,149,39,43
+Gujarat,Hypertension,2015,31-40,745,39,15
+Karnataka,Cancer,2023,21-30,650,61,32
+Gujarat,Diabetes,2010,61+,759,94,6
+Delhi,Dengue,2018,61+,337,31,15
+Uttar Pradesh,Cancer,2017,51-60,110,59,40
+Tamil Nadu,Hypertension,2022,31-40,757,11,18
+Bihar,Malaria,2008,61+,606,65,10
+Bihar,HIV/AIDS,2010,0-10,128,41,6
+Delhi,Hypertension,2012,61+,655,92,13
+Kerala,Asthma,2007,31-40,566,86,14
+Kerala,COVID-19,2004,21-30,760,48,35
+Gujarat,HIV/AIDS,2010,41-50,446,46,15
+Karnataka,Malaria,2005,61+,84,78,14
+Tamil Nadu,Malaria,2023,21-30,712,16,49
+Bihar,Tuberculosis,2008,21-30,589,92,13
+Punjab,Heart Disease,2011,31-40,903,80,8
+Karnataka,Dengue,2009,0-10,445,58,31
+Uttar Pradesh,Malaria,2023,20-Nov,169,10,20
+Tamil Nadu,Tuberculosis,2002,41-50,172,59,30
+Maharashtra,Diabetes,2010,61+,730,18,6
+Maharashtra,Diabetes,2017,51-60,451,80,38
+Delhi,Cancer,2013,31-40,533,88,4
+Maharashtra,Heart Disease,2020,31-40,917,19,29
+Bihar,COVID-19,2023,41-50,710,28,43
+Bihar,COVID-19,2021,0-10,541,98,20
+Maharashtra,Tuberculosis,2021,61+,171,41,45
+West Bengal,COVID-19,2003,41-50,555,95,16
+Delhi,Heart Disease,2014,41-50,456,48,40
+Uttar Pradesh,Dengue,2003,41-50,67,77,39
+Bihar,Dengue,2011,21-30,449,99,27
+Delhi,HIV/AIDS,2017,21-30,113,52,26
+Uttar Pradesh,HIV/AIDS,2011,41-50,201,22,6
+Punjab,COVID-19,2019,0-10,105,34,36
+Punjab,Malaria,2014,61+,175,32,6
+Karnataka,Hypertension,2013,61+,976,33,11
+Gujarat,Tuberculosis,2018,61+,286,89,5
+Uttar Pradesh,COVID-19,2015,61+,394,91,22
+Kerala,Asthma,2011,20-Nov,618,94,11
+Delhi,Asthma,2021,41-50,242,77,21
+Tamil Nadu,Cancer,2005,51-60,531,48,41
+Uttar Pradesh,Heart Disease,2001,31-40,418,43,21
+Gujarat,Heart Disease,2001,21-30,702,82,14
+Gujarat,Asthma,2001,21-30,932,8,6
+Karnataka,Malaria,2007,0-10,55,50,45
+Punjab,Cancer,2012,41-50,267,63,42
+Tamil Nadu,Diabetes,2020,0-10,376,83,33
+Tamil Nadu,Malaria,2017,61+,956,41,12
+Gujarat,Cancer,2015,0-10,313,20,32
+West Bengal,Tuberculosis,2023,20-Nov,245,67,24
+Punjab,COVID-19,2020,20-Nov,764,79,24
+Kerala,HIV/AIDS,2015,21-30,241,12,44
+Uttar Pradesh,Diabetes,2021,31-40,386,99,19
+Uttar Pradesh,COVID-19,2019,61+,357,91,21
+Karnataka,Malaria,2011,61+,473,9,22
+Punjab,Heart Disease,2002,41-50,57,72,23
+Karnataka,Diabetes,2010,51-60,839,25,9
+Maharashtra,Cancer,2021,31-40,496,39,20
+West Bengal,Asthma,2019,41-50,131,86,21
+Uttar Pradesh,Tuberculosis,2002,0-10,70,28,47
+Maharashtra,Malaria,2010,20-Nov,199,26,46
+Bihar,Hypertension,2022,0-10,56,15,21
+Karnataka,Asthma,2012,0-10,872,95,32
+Delhi,Malaria,2009,0-10,613,27,41
+Maharashtra,Malaria,2001,0-10,98,25,3
+Delhi,Diabetes,2006,41-50,823,56,39
+Punjab,COVID-19,2014,20-Nov,983,22,11
+Delhi,COVID-19,2014,51-60,200,52,10
+West Bengal,Hypertension,2014,51-60,856,69,12
+Karnataka,Hypertension,2021,21-30,518,1,21
+Punjab,Malaria,2015,20-Nov,997,63,46
+Maharashtra,Malaria,2021,0-10,811,56,47
+Karnataka,Cancer,2007,21-30,372,57,27
+Kerala,Heart Disease,2002,51-60,258,5,41
+Bihar,Diabetes,2008,0-10,816,33,37
+Maharashtra,Malaria,2008,31-40,232,100,34
+West Bengal,Diabetes,2020,20-Nov,51,24,34
+Maharashtra,Tuberculosis,2001,41-50,317,75,49
+Uttar Pradesh,Cancer,2019,21-30,541,68,48
+Tamil Nadu,Diabetes,2009,41-50,615,73,25
+Punjab,Cancer,2024,21-30,912,34,28
+West Bengal,Hypertension,2016,0-10,239,58,48
+Punjab,Heart Disease,2007,20-Nov,654,41,19
+Kerala,Asthma,2021,31-40,211,78,11
+Uttar Pradesh,COVID-19,2018,61+,360,92,33
+Gujarat,HIV/AIDS,2005,41-50,944,9,31
+Bihar,COVID-19,2015,21-30,488,20,35
+Uttar Pradesh,Cancer,2012,21-30,253,9,48
+Gujarat,Asthma,2007,41-50,215,38,6
+West Bengal,Tuberculosis,2018,0-10,458,78,50
+Uttar Pradesh,HIV/AIDS,2015,31-40,762,32,12
+Kerala,Diabetes,2015,41-50,298,6,33
+Uttar Pradesh,Diabetes,2013,21-30,385,0,33
+Maharashtra,HIV/AIDS,2012,51-60,512,71,40
+Delhi,COVID-19,2018,51-60,697,13,6
+Bihar,Asthma,2011,20-Nov,81,15,41
+West Bengal,Heart Disease,2001,41-50,933,21,28
+Bihar,Diabetes,2023,61+,265,36,3
+Bihar,Hypertension,2012,41-50,328,38,9
+West Bengal,Diabetes,2010,20-Nov,334,37,3
+Delhi,Asthma,2016,21-30,401,39,15
+Punjab,Cancer,2024,0-10,281,68,24
+Tamil Nadu,COVID-19,2021,31-40,825,68,48
+Punjab,Malaria,2002,20-Nov,689,51,25
+Punjab,Asthma,2000,31-40,279,50,1
+Punjab,Cancer,2005,61+,15,30,15
+Tamil Nadu,Malaria,2013,0-10,328,69,32
+Kerala,Tuberculosis,2019,31-40,651,49,40
+Maharashtra,Dengue,2009,20-Nov,528,77,31
+Punjab,Cancer,2020,51-60,232,76,25
+Uttar Pradesh,COVID-19,2017,21-30,828,26,12
+Kerala,Malaria,2014,51-60,212,77,4
+Karnataka,Heart Disease,2017,20-Nov,81,85,29
+Gujarat,Heart Disease,2007,61+,822,78,14
+Bihar,Tuberculosis,2022,0-10,609,55,30
+Uttar Pradesh,COVID-19,2019,21-30,360,66,10
+Gujarat,HIV/AIDS,2020,41-50,15,51,19
+Gujarat,Asthma,2019,41-50,135,46,30
+Uttar Pradesh,Heart Disease,2014,61+,815,5,43
+West Bengal,Dengue,2006,61+,856,0,27
+Punjab,Dengue,2014,20-Nov,908,87,3
+Delhi,Hypertension,2002,61+,74,48,1
+Uttar Pradesh,HIV/AIDS,2023,0-10,825,69,5
+West Bengal,Diabetes,2023,41-50,51,81,20
+Delhi,COVID-19,2019,41-50,342,36,36
+Uttar Pradesh,Asthma,2002,31-40,937,58,50
+Uttar Pradesh,COVID-19,2002,31-40,534,24,2
+Kerala,HIV/AIDS,2006,51-60,785,1,7
+Karnataka,Tuberculosis,2001,21-30,833,63,9
+Delhi,Cancer,2022,51-60,712,68,18
+Kerala,Diabetes,2011,21-30,666,0,45
+Tamil Nadu,Asthma,2012,51-60,804,30,38
+Punjab,Heart Disease,2008,41-50,461,19,2
+Kerala,COVID-19,2022,0-10,616,14,21
+Delhi,Cancer,2015,61+,778,47,5
+Kerala,HIV/AIDS,2011,61+,281,48,42
+Uttar Pradesh,Heart Disease,2022,51-60,233,95,38
+Delhi,Asthma,2017,31-40,823,83,33
+Bihar,Heart Disease,2008,20-Nov,635,96,13
+Delhi,COVID-19,2021,0-10,477,41,39
+Gujarat,Dengue,2013,61+,918,68,4
+Kerala,Tuberculosis,2022,51-60,839,4,25
+Karnataka,Tuberculosis,2022,61+,872,99,36
+Karnataka,Dengue,2002,20-Nov,269,27,27
+Maharashtra,COVID-19,2017,51-60,83,33,28
+Bihar,Cancer,2014,21-30,36,11,35
+Uttar Pradesh,Hypertension,2021,41-50,457,87,49
+Gujarat,Diabetes,2020,51-60,323,87,50
+Punjab,Hypertension,2008,31-40,89,65,39
+Delhi,Tuberculosis,2009,61+,696,23,13
+Kerala,Dengue,2022,20-Nov,768,27,17
+Uttar Pradesh,Tuberculosis,2016,0-10,995,81,29
+Tamil Nadu,Malaria,2021,0-10,916,26,23
+Bihar,Asthma,2016,61+,547,75,8
+Kerala,Malaria,2011,21-30,944,58,46
+Bihar,Hypertension,2004,20-Nov,821,98,38
+Gujarat,Hypertension,2010,21-30,578,14,8
+Karnataka,Heart Disease,2014,61+,227,21,5
+Tamil Nadu,Tuberculosis,2015,41-50,396,89,50
+Bihar,Asthma,2021,20-Nov,654,59,38
+Bihar,Tuberculosis,2006,20-Nov,557,37,47
+West Bengal,COVID-19,2013,31-40,28,6,20
+Maharashtra,HIV/AIDS,2001,41-50,653,54,1
+Uttar Pradesh,Cancer,2019,61+,822,72,43
+Uttar Pradesh,Dengue,2008,61+,985,51,31
+Tamil Nadu,Malaria,2003,21-30,423,13,12
+Karnataka,HIV/AIDS,2000,0-10,917,78,33
+Bihar,COVID-19,2013,51-60,420,66,5
+Maharashtra,HIV/AIDS,2011,21-30,365,11,47
+Delhi,HIV/AIDS,2007,31-40,15,32,1
+Gujarat,Dengue,2019,20-Nov,374,4,44
+Punjab,Tuberculosis,2011,21-30,170,41,14
+Uttar Pradesh,Cancer,2013,61+,985,87,36
+Delhi,Asthma,2020,51-60,480,6,49
+Delhi,Malaria,2013,41-50,655,7,8
+West Bengal,Diabetes,2013,31-40,330,96,13
+Gujarat,Tuberculosis,2008,31-40,833,68,42
+Delhi,Malaria,2020,51-60,155,12,10
+Bihar,Dengue,2009,51-60,764,51,40
+Tamil Nadu,Hypertension,2003,31-40,464,9,10
+Gujarat,Hypertension,2016,20-Nov,106,66,10
+Gujarat,Heart Disease,2013,0-10,545,45,4
+Karnataka,Tuberculosis,2008,51-60,30,54,29
+Delhi,Dengue,2017,0-10,994,61,34
+Maharashtra,Heart Disease,2021,51-60,194,69,43
+Karnataka,HIV/AIDS,2007,51-60,827,92,16
+Punjab,Hypertension,2002,51-60,70,17,46
+Kerala,COVID-19,2009,61+,495,10,35
+Gujarat,Asthma,2023,51-60,673,100,25
+West Bengal,Malaria,2002,51-60,878,18,14
+Punjab,COVID-19,2003,0-10,267,44,23
+Maharashtra,COVID-19,2019,20-Nov,263,12,18
+Karnataka,Asthma,2010,21-30,987,25,48
+Karnataka,COVID-19,2023,0-10,269,37,22
+Karnataka,HIV/AIDS,2003,0-10,321,84,29
+Gujarat,Diabetes,2013,51-60,757,28,23
+Uttar Pradesh,Hypertension,2023,31-40,99,91,19
+Maharashtra,COVID-19,2005,61+,806,75,15
+Uttar Pradesh,Asthma,2015,0-10,407,64,25
+Gujarat,Tuberculosis,2019,20-Nov,450,54,45
+Kerala,Malaria,2018,20-Nov,508,90,5
+Gujarat,Tuberculosis,2006,21-30,14,10,18
+Delhi,Tuberculosis,2013,31-40,655,73,21
+Maharashtra,Diabetes,2019,41-50,822,59,2
+Bihar,Asthma,2001,61+,40,75,39
+Karnataka,Diabetes,2021,31-40,173,64,7
+Punjab,Tuberculosis,2011,41-50,322,18,5
+West Bengal,Cancer,2016,41-50,435,67,25
+Tamil Nadu,Tuberculosis,2007,61+,586,1,21
+Kerala,Tuberculosis,2003,51-60,639,66,47
+Punjab,Cancer,2017,51-60,555,19,31
+Delhi,COVID-19,2011,31-40,507,8,1
+Gujarat,Tuberculosis,2023,20-Nov,702,41,7
+Bihar,HIV/AIDS,2017,41-50,68,19,39
+Karnataka,Hypertension,2003,51-60,445,79,7
+Punjab,Tuberculosis,2013,31-40,496,85,34
+Delhi,Hypertension,2007,41-50,613,100,44
+Kerala,Tuberculosis,2018,41-50,905,13,33
+Delhi,Diabetes,2023,41-50,303,87,24
+West Bengal,Dengue,2022,21-30,796,25,35
+Maharashtra,Diabetes,2014,21-30,729,44,10
+Punjab,Diabetes,2016,20-Nov,102,69,44
+Karnataka,Cancer,2002,20-Nov,263,20,39
+West Bengal,Dengue,2016,21-30,771,16,36
+Tamil Nadu,Diabetes,2012,0-10,56,6,33
+Uttar Pradesh,Hypertension,2010,21-30,783,55,20
+Tamil Nadu,Tuberculosis,2017,0-10,148,38,44
+Delhi,HIV/AIDS,2003,41-50,538,49,28
+Gujarat,Dengue,2023,41-50,966,57,3
+Gujarat,Heart Disease,2017,31-40,803,19,29
+Uttar Pradesh,Asthma,2017,20-Nov,125,39,34
+Punjab,HIV/AIDS,2016,0-10,506,26,47
+Punjab,Malaria,2017,20-Nov,814,81,46
+Kerala,Diabetes,2020,31-40,960,73,23
+Bihar,Cancer,2001,31-40,732,72,32
+Uttar Pradesh,COVID-19,2014,0-10,609,39,40
+Maharashtra,Hypertension,2020,20-Nov,662,34,37
+West Bengal,Heart Disease,2006,21-30,736,46,5
+Delhi,Tuberculosis,2004,41-50,40,65,15
+Gujarat,Dengue,2012,0-10,189,81,3
+Gujarat,Dengue,2012,61+,857,73,8
+Delhi,Cancer,2016,31-40,441,81,38
+Uttar Pradesh,Malaria,2010,51-60,743,48,20
+West Bengal,Malaria,2003,41-50,527,6,36
+Karnataka,Tuberculosis,2010,51-60,400,52,30
+West Bengal,COVID-19,2001,0-10,944,18,16
+Bihar,Cancer,2001,20-Nov,442,54,32
+Kerala,Asthma,2007,31-40,346,40,40
+Gujarat,Heart Disease,2020,31-40,214,78,29
+Karnataka,Dengue,2010,21-30,737,82,40
+Kerala,Heart Disease,2007,31-40,629,40,36
+Uttar Pradesh,Hypertension,2010,0-10,424,87,14
+Punjab,Diabetes,2008,51-60,905,57,39
+Punjab,Diabetes,2016,21-30,704,82,34
+Bihar,Tuberculosis,2006,41-50,157,12,8
+Maharashtra,COVID-19,2002,21-30,795,97,42
+Maharashtra,Heart Disease,2003,21-30,564,77,13
+Uttar Pradesh,COVID-19,2015,31-40,46,24,42
+Uttar Pradesh,Heart Disease,2013,31-40,584,18,27
+Uttar Pradesh,Tuberculosis,2002,51-60,818,6,33
+Delhi,Diabetes,2001,51-60,151,10,10
+West Bengal,Heart Disease,2004,51-60,468,18,6
+Uttar Pradesh,Diabetes,2013,41-50,943,64,17
+Delhi,Dengue,2021,31-40,802,75,34
+Karnataka,Cancer,2004,21-30,811,33,39
+Bihar,Cancer,2015,21-30,205,18,8
+Bihar,Hypertension,2019,21-30,646,39,17
+Tamil Nadu,COVID-19,2002,0-10,630,93,9
+Kerala,COVID-19,2008,51-60,712,96,3
+Delhi,HIV/AIDS,2021,51-60,709,37,43
+Kerala,HIV/AIDS,2024,20-Nov,174,35,38
+Bihar,Heart Disease,2009,21-30,337,41,30
+Punjab,Asthma,2023,51-60,870,20,14
+Punjab,Tuberculosis,2008,41-50,327,43,31
+Karnataka,Diabetes,2003,31-40,218,45,1
+Tamil Nadu,Cancer,2024,41-50,801,42,46
+Maharashtra,Malaria,2022,0-10,632,63,15
+Kerala,Tuberculosis,2009,0-10,499,71,42
+Tamil Nadu,Hypertension,2009,31-40,23,69,34
+Uttar Pradesh,Tuberculosis,2017,21-30,398,49,18
+West Bengal,Malaria,2010,0-10,473,19,16
+Karnataka,Cancer,2016,20-Nov,895,7,46
+Gujarat,Heart Disease,2003,21-30,262,72,27
+Uttar Pradesh,COVID-19,2024,61+,723,29,44
+Gujarat,HIV/AIDS,2001,20-Nov,699,4,9
+Kerala,Cancer,2023,61+,467,92,50
+West Bengal,HIV/AIDS,2014,41-50,553,54,36
+Delhi,Dengue,2000,51-60,543,76,35
+Kerala,Tuberculosis,2010,31-40,256,61,5
+Tamil Nadu,COVID-19,2016,61+,819,38,16
+Delhi,Diabetes,2013,61+,420,83,42
+West Bengal,Heart Disease,2009,41-50,619,47,37
+West Bengal,HIV/AIDS,2007,0-10,413,40,48
+Kerala,Hypertension,2009,51-60,684,66,25
+Karnataka,COVID-19,2021,0-10,770,15,41
+Bihar,COVID-19,2011,0-10,236,62,47
+West Bengal,Dengue,2004,31-40,905,20,30
+Bihar,Malaria,2006,21-30,211,64,40
+Uttar Pradesh,COVID-19,2013,61+,43,44,43
+Kerala,HIV/AIDS,2009,0-10,308,89,45
+Maharashtra,Asthma,2000,21-30,455,51,25
+Delhi,Hypertension,2012,61+,810,96,45
+Kerala,HIV/AIDS,2017,41-50,643,12,33
+Kerala,Asthma,2013,61+,149,11,34
+Gujarat,Tuberculosis,2003,51-60,663,21,3
+Punjab,Heart Disease,2005,20-Nov,833,82,37
+West Bengal,Tuberculosis,2014,21-30,309,38,48
+Bihar,Diabetes,2006,31-40,69,44,37
+Tamil Nadu,Asthma,2023,20-Nov,431,89,33
+Karnataka,Hypertension,2010,31-40,382,27,45
+Tamil Nadu,Malaria,2020,20-Nov,833,75,5
+Maharashtra,COVID-19,2015,20-Nov,967,25,12
+Tamil Nadu,Hypertension,2011,41-50,215,60,16
+Punjab,Cancer,2007,21-30,417,13,43
+Uttar Pradesh,HIV/AIDS,2003,20-Nov,622,2,25
+Punjab,Asthma,2017,51-60,599,59,21
+Maharashtra,Cancer,2008,31-40,561,18,30
+Maharashtra,HIV/AIDS,2011,20-Nov,243,6,47
+Maharashtra,Malaria,2001,31-40,715,94,21
+Tamil Nadu,Tuberculosis,2012,0-10,493,15,25
+Delhi,Cancer,2021,21-30,879,7,49
+Kerala,Dengue,2021,61+,204,30,30
+Delhi,Cancer,2000,20-Nov,466,16,14
+Uttar Pradesh,Asthma,2006,20-Nov,116,96,22
+Bihar,Heart Disease,2012,31-40,912,40,33
+West Bengal,Malaria,2014,41-50,231,34,31
+Karnataka,Dengue,2020,21-30,409,22,11
+Gujarat,Hypertension,2009,21-30,247,15,2
+Gujarat,COVID-19,2020,31-40,729,26,16
+West Bengal,Dengue,2012,0-10,787,27,19
+Tamil Nadu,COVID-19,2021,21-30,471,72,27
+West Bengal,Tuberculosis,2024,41-50,247,56,41
+Maharashtra,COVID-19,2013,41-50,464,46,21
+Gujarat,Asthma,2018,0-10,136,51,4
+Uttar Pradesh,Diabetes,2013,41-50,545,2,17
+Bihar,Tuberculosis,2010,21-30,807,19,32
+Punjab,Tuberculosis,2011,51-60,240,78,7
+Bihar,Dengue,2021,0-10,112,44,5
+West Bengal,COVID-19,2015,20-Nov,36,98,40
+West Bengal,Diabetes,2004,20-Nov,838,100,6
+Delhi,HIV/AIDS,2005,61+,508,48,6
+West Bengal,COVID-19,2012,61+,302,81,37
+Uttar Pradesh,Asthma,2006,20-Nov,985,69,21
+Gujarat,Heart Disease,2004,51-60,374,99,35
+West Bengal,Malaria,2021,41-50,936,55,20
+Bihar,HIV/AIDS,2003,20-Nov,886,36,29
+Maharashtra,HIV/AIDS,2001,51-60,85,35,15
+Bihar,Asthma,2008,0-10,498,30,19
+Kerala,Diabetes,2007,51-60,780,45,3
+Tamil Nadu,Tuberculosis,2024,0-10,386,65,33
+Delhi,Hypertension,2019,51-60,259,48,41
+Gujarat,Cancer,2006,51-60,102,24,20
+Gujarat,Tuberculosis,2024,61+,178,82,13
+Kerala,Heart Disease,2009,0-10,881,46,13
+Delhi,HIV/AIDS,2001,61+,918,10,21
+Gujarat,Hypertension,2021,20-Nov,778,24,23
+Karnataka,Cancer,2023,61+,372,67,3
+Delhi,COVID-19,2006,20-Nov,478,44,38
+Karnataka,HIV/AIDS,2008,20-Nov,267,8,48
+West Bengal,Diabetes,2017,0-10,596,91,39
+Tamil Nadu,HIV/AIDS,2010,51-60,948,59,39
+Maharashtra,Tuberculosis,2010,21-30,582,30,1
+Delhi,HIV/AIDS,2008,31-40,294,71,6
+Uttar Pradesh,Dengue,2016,21-30,726,32,2
+Kerala,Diabetes,2023,51-60,273,29,25
+Gujarat,Asthma,2003,61+,99,37,26
+Tamil Nadu,Malaria,2017,41-50,619,72,40
+Karnataka,Dengue,2002,51-60,82,40,21
+Bihar,Heart Disease,2024,51-60,314,68,27
+Kerala,HIV/AIDS,2009,51-60,505,29,22
+Uttar Pradesh,Diabetes,2021,20-Nov,264,62,3
+West Bengal,Hypertension,2022,0-10,934,12,27
+Gujarat,COVID-19,2017,20-Nov,836,41,13
+Kerala,Cancer,2008,20-Nov,484,74,40
+Kerala,COVID-19,2017,21-30,335,46,45
+Bihar,COVID-19,2011,31-40,826,1,17
+Karnataka,Cancer,2023,41-50,607,91,4
+Punjab,Cancer,2006,21-30,570,86,38
+Karnataka,HIV/AIDS,2007,51-60,549,100,10
+Gujarat,Diabetes,2019,0-10,168,47,25
+Tamil Nadu,Hypertension,2017,41-50,552,41,27
+Karnataka,Tuberculosis,2007,20-Nov,791,74,24
+West Bengal,HIV/AIDS,2011,20-Nov,338,19,8
+Kerala,Tuberculosis,2016,51-60,324,65,23
+Delhi,HIV/AIDS,2015,0-10,188,66,23
+Kerala,COVID-19,2007,51-60,288,83,23
+Maharashtra,Dengue,2000,51-60,958,10,41
+West Bengal,Diabetes,2017,41-50,715,93,19
+Uttar Pradesh,COVID-19,2008,51-60,329,96,4
+Gujarat,COVID-19,2021,0-10,838,15,45
+Bihar,Tuberculosis,2020,31-40,11,90,45
+Karnataka,Heart Disease,2020,0-10,986,37,39
+Kerala,Diabetes,2008,20-Nov,337,39,46
+Delhi,Asthma,2020,21-30,726,26,14
+Delhi,Asthma,2009,0-10,696,39,42
+Maharashtra,COVID-19,2001,21-30,344,77,17
+Karnataka,Hypertension,2022,41-50,813,81,21
+Punjab,Malaria,2003,31-40,126,15,31
+Delhi,Heart Disease,2020,31-40,834,57,43
+West Bengal,Hypertension,2000,20-Nov,627,13,31
+Kerala,Tuberculosis,2024,51-60,178,95,22
+Delhi,Tuberculosis,2009,20-Nov,316,60,21
+Karnataka,HIV/AIDS,2012,41-50,909,78,1
+West Bengal,Tuberculosis,2009,0-10,20,25,26
+West Bengal,Asthma,2002,20-Nov,339,84,1
+Gujarat,Tuberculosis,2016,31-40,759,81,18
+Tamil Nadu,Cancer,2017,41-50,655,66,6
+Delhi,Malaria,2006,0-10,986,63,45
+West Bengal,Cancer,2014,21-30,913,17,45
+Kerala,Malaria,2004,51-60,225,60,39
+Kerala,Diabetes,2016,51-60,989,74,25
+Karnataka,Asthma,2020,41-50,947,77,1
+Karnataka,HIV/AIDS,2012,51-60,222,45,25
+Maharashtra,Diabetes,2020,61+,862,85,25
+Bihar,Asthma,2023,51-60,259,13,15
+Delhi,Heart Disease,2001,0-10,877,80,38
+Delhi,Cancer,2002,31-40,265,2,17
+Tamil Nadu,Dengue,2006,41-50,296,18,13
+Kerala,Malaria,2010,20-Nov,74,53,31
+Maharashtra,Cancer,2013,41-50,561,22,37
+Maharashtra,COVID-19,2016,41-50,454,92,22
+Maharashtra,Malaria,2023,61+,290,65,48
+Punjab,Asthma,2013,51-60,115,61,17
+Gujarat,Cancer,2013,21-30,698,61,16
+Maharashtra,Asthma,2017,41-50,602,88,29
+Delhi,Cancer,2007,61+,555,8,41
+Kerala,Cancer,2001,31-40,216,7,33
+Maharashtra,Diabetes,2003,51-60,812,13,44
+Kerala,Tuberculosis,2017,20-Nov,950,9,43
+West Bengal,COVID-19,2021,51-60,69,7,24
+Tamil Nadu,Cancer,2017,41-50,355,88,10
+Karnataka,HIV/AIDS,2019,21-30,145,12,24
+Bihar,Dengue,2017,51-60,861,8,46
+Karnataka,Heart Disease,2002,51-60,101,18,46
+West Bengal,Dengue,2003,21-30,423,84,42
+West Bengal,Malaria,2005,51-60,424,8,40
+Maharashtra,Diabetes,2000,20-Nov,338,23,24
+Tamil Nadu,Tuberculosis,2024,31-40,183,64,33
+Tamil Nadu,Asthma,2022,21-30,508,41,46
+Karnataka,Cancer,2002,21-30,338,10,43
+Delhi,HIV/AIDS,2009,51-60,180,53,19
+Karnataka,Heart Disease,2022,41-50,655,91,38
+Gujarat,Dengue,2009,0-10,374,75,1
+Uttar Pradesh,Dengue,2009,31-40,355,24,28
+Gujarat,Cancer,2012,61+,76,11,5
+Uttar Pradesh,Malaria,2003,0-10,525,36,31
+Gujarat,Hypertension,2019,31-40,716,98,7
+Tamil Nadu,Malaria,2016,61+,526,63,10
+Karnataka,Diabetes,2020,61+,596,78,29
+Kerala,HIV/AIDS,2002,41-50,429,82,39
+Karnataka,Dengue,2004,21-30,268,26,17
+Punjab,Asthma,2005,51-60,641,77,11
+West Bengal,Asthma,2004,61+,504,99,15
+Delhi,COVID-19,2023,20-Nov,818,100,23
+Delhi,Tuberculosis,2004,20-Nov,333,75,6
+Uttar Pradesh,HIV/AIDS,2019,61+,400,37,34
+Punjab,Diabetes,2003,0-10,820,59,44
+Tamil Nadu,Diabetes,2022,31-40,535,32,16
+Kerala,Diabetes,2001,41-50,954,67,18
+Bihar,HIV/AIDS,2001,61+,472,41,15
+Punjab,Diabetes,2010,61+,354,37,22
+Karnataka,Malaria,2013,51-60,199,28,17
+Maharashtra,Cancer,2019,41-50,765,69,2
+West Bengal,HIV/AIDS,2020,61+,460,49,36
+Bihar,HIV/AIDS,2007,31-40,850,60,17
+Bihar,Asthma,2003,31-40,871,16,4
+Delhi,Tuberculosis,2016,41-50,863,87,40
+Kerala,Heart Disease,2009,51-60,688,75,41
+Tamil Nadu,Cancer,2004,20-Nov,157,19,37
+Gujarat,Malaria,2022,41-50,145,75,34
+Gujarat,Cancer,2015,21-30,113,13,15
+Bihar,Asthma,2013,21-30,570,32,19
+Delhi,Malaria,2011,20-Nov,443,19,48
+Tamil Nadu,Dengue,2017,51-60,435,72,30
+Karnataka,Cancer,2014,0-10,855,84,23
+Karnataka,Tuberculosis,2014,0-10,99,39,41
+Gujarat,Malaria,2001,51-60,430,84,6
+Bihar,Heart Disease,2022,41-50,426,73,19
+Gujarat,Malaria,2006,51-60,251,49,29
+Karnataka,Tuberculosis,2001,0-10,405,57,34
+Punjab,Dengue,2019,31-40,593,30,11
+West Bengal,Heart Disease,2012,20-Nov,731,75,50
+Maharashtra,Tuberculosis,2006,31-40,19,42,18
+Maharashtra,Hypertension,2007,61+,274,86,8
+West Bengal,Cancer,2003,41-50,226,73,24
+Bihar,Asthma,2004,0-10,162,45,31
+West Bengal,Dengue,2007,0-10,514,4,45
+Maharashtra,Dengue,2003,51-60,501,52,37
+Punjab,Heart Disease,2019,51-60,986,99,42
+Maharashtra,Asthma,2014,20-Nov,172,17,50
+West Bengal,COVID-19,2009,0-10,929,80,48
+West Bengal,Malaria,2002,41-50,722,87,48
+Karnataka,Tuberculosis,2000,41-50,937,8,46
+Gujarat,Heart Disease,2006,21-30,621,90,43
+Bihar,Asthma,2014,21-30,934,5,49
+Punjab,COVID-19,2024,21-30,776,96,50
+Punjab,Dengue,2022,61+,123,80,16
+Tamil Nadu,Heart Disease,2011,21-30,670,38,4
+Uttar Pradesh,Cancer,2010,21-30,809,55,35
+Tamil Nadu,Diabetes,2010,21-30,509,34,46
+Kerala,HIV/AIDS,2007,41-50,584,30,48
+Karnataka,Dengue,2012,20-Nov,107,24,46
+Uttar Pradesh,Asthma,2010,20-Nov,657,87,20
+Punjab,Hypertension,2002,61+,868,91,38
+Punjab,HIV/AIDS,2006,41-50,753,23,11
+Karnataka,Malaria,2003,21-30,649,26,39
+West Bengal,COVID-19,2011,21-30,375,54,26
+Kerala,Hypertension,2008,31-40,790,71,7
+Karnataka,Cancer,2001,41-50,63,20,4
+Punjab,Asthma,2021,0-10,199,38,23
+Maharashtra,COVID-19,2012,51-60,929,97,36
+Kerala,Asthma,2012,61+,37,55,45
+Bihar,Malaria,2001,20-Nov,148,17,15
+Kerala,COVID-19,2024,21-30,487,86,24
+Tamil Nadu,HIV/AIDS,2010,31-40,292,61,39
+Karnataka,Asthma,2017,31-40,959,31,7
+Maharashtra,Dengue,2010,21-30,623,25,26
+Kerala,Hypertension,2003,0-10,500,57,33
+Karnataka,Tuberculosis,2017,61+,682,64,2
+Delhi,Cancer,2022,41-50,572,16,31
+Delhi,Cancer,2001,21-30,87,49,34
+Uttar Pradesh,Malaria,2014,61+,106,22,25
+Gujarat,Diabetes,2005,0-10,281,63,41
+Tamil Nadu,Heart Disease,2021,61+,523,41,45
+Karnataka,Diabetes,2008,61+,695,29,9
+West Bengal,Malaria,2004,21-30,498,67,21
+Tamil Nadu,HIV/AIDS,2000,31-40,493,57,19
+Delhi,Dengue,2012,0-10,98,7,15
+Maharashtra,HIV/AIDS,2001,61+,70,98,26
+West Bengal,Malaria,2023,61+,928,50,33
+Delhi,Hypertension,2005,21-30,305,83,4
+West Bengal,Dengue,2004,51-60,755,35,3
+Bihar,Dengue,2016,20-Nov,326,76,43
+Delhi,COVID-19,2000,51-60,701,54,24
+Punjab,Asthma,2006,20-Nov,674,64,19
+Tamil Nadu,Hypertension,2017,21-30,333,64,24
+Maharashtra,Malaria,2003,21-30,482,74,32
+Maharashtra,Hypertension,2019,61+,196,63,32
+Bihar,Diabetes,2017,51-60,300,13,2
+Punjab,Dengue,2011,51-60,548,61,31
+Tamil Nadu,HIV/AIDS,2019,31-40,678,81,32
+Kerala,Heart Disease,2012,51-60,821,25,36
+Maharashtra,Tuberculosis,2017,21-30,354,82,4
+West Bengal,Cancer,2007,20-Nov,532,100,33
+Kerala,COVID-19,2011,51-60,952,55,15
+Kerala,Dengue,2024,61+,32,97,17
+Punjab,Asthma,2012,0-10,128,57,14
+Uttar Pradesh,COVID-19,2012,51-60,464,23,23
+Tamil Nadu,Hypertension,2017,51-60,683,95,18
+Bihar,Malaria,2020,61+,261,60,1
+Punjab,HIV/AIDS,2010,41-50,725,39,35
+Uttar Pradesh,Dengue,2016,31-40,404,19,4
+Maharashtra,Malaria,2012,0-10,894,82,18
+Uttar Pradesh,Tuberculosis,2001,31-40,974,22,31
+Delhi,Heart Disease,2017,21-30,667,81,42
+Maharashtra,Cancer,2001,31-40,942,21,22
+Bihar,COVID-19,2022,0-10,963,52,11
+Tamil Nadu,COVID-19,2011,20-Nov,145,99,4
+Karnataka,Hypertension,2017,21-30,705,39,26
+West Bengal,Tuberculosis,2011,20-Nov,300,79,14
+West Bengal,Heart Disease,2004,21-30,155,8,36
+Gujarat,COVID-19,2005,61+,908,87,40
+Uttar Pradesh,Cancer,2005,0-10,174,26,11
+Gujarat,Heart Disease,2002,51-60,869,7,25
+Maharashtra,Heart Disease,2007,61+,857,41,37
+Delhi,Hypertension,2011,41-50,324,19,15
+Gujarat,COVID-19,2019,20-Nov,194,84,5
+Uttar Pradesh,Cancer,2008,0-10,615,29,36
+Punjab,COVID-19,2013,41-50,683,40,7
+Karnataka,Heart Disease,2007,0-10,760,92,2
+Tamil Nadu,Cancer,2008,21-30,67,15,45
+Kerala,Asthma,2007,51-60,730,80,37
+Gujarat,Hypertension,2024,41-50,358,74,43
+Karnataka,Dengue,2023,51-60,74,39,7
+Uttar Pradesh,Hypertension,2021,51-60,680,71,49
+Delhi,HIV/AIDS,2020,31-40,388,83,13
+Delhi,Diabetes,2002,0-10,548,84,17
+Uttar Pradesh,Asthma,2011,21-30,258,86,5
+Bihar,Dengue,2014,61+,607,7,36
+Karnataka,Tuberculosis,2008,20-Nov,389,74,39
+Tamil Nadu,Malaria,2013,20-Nov,112,86,3
+Delhi,Malaria,2021,51-60,772,91,40
+Delhi,COVID-19,2010,51-60,673,1,43
+Maharashtra,Hypertension,2018,20-Nov,342,42,39
+Bihar,Diabetes,2015,61+,507,96,49
+Punjab,COVID-19,2016,21-30,758,46,3
+Kerala,Asthma,2015,0-10,735,29,18
+Kerala,Malaria,2021,31-40,822,4,46
+Uttar Pradesh,Malaria,2019,51-60,98,79,46
+Punjab,HIV/AIDS,2001,61+,896,100,36
+Karnataka,Heart Disease,2007,31-40,62,69,42
+Maharashtra,HIV/AIDS,2022,0-10,15,34,38
+Maharashtra,Asthma,2009,41-50,515,27,35
+Delhi,Heart Disease,2001,21-30,678,0,5
+Delhi,Heart Disease,2002,41-50,773,85,40
+Uttar Pradesh,Tuberculosis,2002,20-Nov,803,2,18
+Uttar Pradesh,Asthma,2023,21-30,983,65,15
+Kerala,Tuberculosis,2013,21-30,240,16,29
+Kerala,Tuberculosis,2002,41-50,942,10,42
+Delhi,Hypertension,2003,51-60,767,96,41
+Bihar,Cancer,2017,51-60,952,92,7
+Gujarat,Dengue,2001,31-40,241,29,39
+Delhi,Malaria,2016,20-Nov,618,40,10
+Maharashtra,Tuberculosis,2009,21-30,801,55,44
+Gujarat,COVID-19,2014,20-Nov,252,30,46
+West Bengal,HIV/AIDS,2005,61+,885,30,7
+Maharashtra,Cancer,2008,21-30,620,12,36
+Punjab,Asthma,2013,31-40,934,85,13
+Maharashtra,Diabetes,2003,31-40,220,88,37
+Punjab,Heart Disease,2016,31-40,694,59,4
+Delhi,Tuberculosis,2024,20-Nov,292,65,38
+West Bengal,COVID-19,2005,20-Nov,929,65,33
+Bihar,COVID-19,2004,31-40,669,0,10
+Kerala,Tuberculosis,2019,61+,735,87,26
+Tamil Nadu,Cancer,2008,0-10,351,82,28
+Uttar Pradesh,Hypertension,2005,21-30,122,19,30
+Karnataka,Diabetes,2022,31-40,679,2,47
+Tamil Nadu,Dengue,2008,0-10,252,74,29
+Karnataka,HIV/AIDS,2012,61+,145,41,40
+Delhi,Malaria,2004,61+,605,65,42
+Maharashtra,Tuberculosis,2005,0-10,23,76,31
+Kerala,HIV/AIDS,2011,41-50,522,58,12
+Punjab,Asthma,2008,20-Nov,576,52,48
+Tamil Nadu,Hypertension,2024,41-50,918,43,5
+Gujarat,Asthma,2018,21-30,905,25,38
+West Bengal,Diabetes,2011,0-10,485,58,19
+Maharashtra,Asthma,2011,31-40,853,83,17
+Gujarat,Diabetes,2011,31-40,795,53,9
+Punjab,COVID-19,2012,31-40,878,79,22
+Maharashtra,Dengue,2008,31-40,864,23,23
+Delhi,Heart Disease,2008,61+,849,99,16
+Maharashtra,HIV/AIDS,2004,0-10,211,98,28
+Punjab,Malaria,2002,20-Nov,259,79,34
+Punjab,Malaria,2019,0-10,840,46,16
+Punjab,COVID-19,2008,41-50,829,97,41
+Bihar,HIV/AIDS,2016,20-Nov,676,85,50
+Tamil Nadu,Diabetes,2009,31-40,361,73,17
+Punjab,Dengue,2018,21-30,800,86,45
+Kerala,Diabetes,2009,20-Nov,923,93,33
+West Bengal,Cancer,2011,51-60,723,19,33
+West Bengal,Heart Disease,2002,61+,455,49,5
+West Bengal,Hypertension,2023,41-50,525,83,17
+Uttar Pradesh,Diabetes,2018,61+,775,43,44
+Uttar Pradesh,Tuberculosis,2019,21-30,918,100,14
+Karnataka,Asthma,2021,0-10,414,31,28
+West Bengal,Heart Disease,2007,21-30,651,98,15
+Kerala,HIV/AIDS,2021,61+,480,35,49
+Punjab,Diabetes,2015,21-30,435,7,37
+Kerala,Heart Disease,2019,0-10,261,18,34
+Karnataka,Tuberculosis,2020,41-50,113,98,14
+Delhi,Hypertension,2011,41-50,71,91,5
+Bihar,Tuberculosis,2024,21-30,538,72,44
+Punjab,Tuberculosis,2007,20-Nov,194,3,26
+Delhi,Heart Disease,2001,41-50,821,82,27
+Karnataka,Asthma,2004,51-60,421,8,44
+Kerala,Heart Disease,2009,0-10,323,49,48
+Bihar,COVID-19,2022,51-60,79,55,42
+Karnataka,Diabetes,2006,51-60,279,65,43
+Tamil Nadu,Malaria,2022,20-Nov,543,9,14
+Gujarat,Dengue,2012,51-60,475,94,26
+West Bengal,Diabetes,2021,41-50,857,58,31
+Punjab,Hypertension,2014,0-10,244,87,39
+Kerala,HIV/AIDS,2016,51-60,241,15,41
+West Bengal,Hypertension,2006,31-40,195,52,23
+Maharashtra,Diabetes,2018,31-40,633,42,15
+Gujarat,Diabetes,2012,41-50,483,5,47
+Karnataka,Tuberculosis,2016,31-40,759,22,33
+Punjab,HIV/AIDS,2019,61+,289,73,31
+Uttar Pradesh,Asthma,2023,61+,645,72,45
+Maharashtra,Asthma,2021,0-10,856,81,25
+Gujarat,Hypertension,2020,20-Nov,925,35,37
+Gujarat,Malaria,2021,20-Nov,515,4,13
+Punjab,HIV/AIDS,2005,0-10,926,19,4
+Tamil Nadu,Diabetes,2015,31-40,1000,56,40
+Gujarat,Malaria,2005,0-10,430,80,12
+Tamil Nadu,Tuberculosis,2016,31-40,137,15,50
+Kerala,Cancer,2019,20-Nov,654,89,2
+West Bengal,Asthma,2010,61+,472,63,44
+Tamil Nadu,Dengue,2004,31-40,464,63,22
+Gujarat,Diabetes,2014,20-Nov,159,78,4
+Tamil Nadu,Malaria,2016,0-10,666,48,3
+Kerala,Hypertension,2006,0-10,451,39,39
+Delhi,Cancer,2000,31-40,277,32,2
+Bihar,Cancer,2005,61+,511,70,43
+Bihar,Diabetes,2010,20-Nov,398,52,46
+Tamil Nadu,COVID-19,2021,61+,746,33,48
+Bihar,Asthma,2014,0-10,535,57,37
+Gujarat,Dengue,2019,41-50,849,32,23
+West Bengal,Hypertension,2001,61+,865,89,27
+Bihar,Cancer,2014,61+,371,4,18
+Tamil Nadu,Cancer,2017,0-10,941,61,35
+West Bengal,Asthma,2022,31-40,366,74,49
+Maharashtra,COVID-19,2018,41-50,920,3,35
+West Bengal,COVID-19,2020,0-10,601,23,9
+Karnataka,Dengue,2015,21-30,664,5,43
+Uttar Pradesh,Asthma,2004,51-60,656,34,2
+Karnataka,Diabetes,2000,61+,156,84,35
+West Bengal,Diabetes,2015,0-10,575,20,7
+Karnataka,Cancer,2022,0-10,719,35,3
+Delhi,Cancer,2018,0-10,593,93,29
+Kerala,Diabetes,2018,20-Nov,418,90,17
+Kerala,Cancer,2016,0-10,691,44,6
+Bihar,Cancer,2019,51-60,732,93,29
+Tamil Nadu,Hypertension,2001,41-50,431,95,4
+Uttar Pradesh,COVID-19,2000,61+,378,88,39
+Punjab,Tuberculosis,2014,31-40,517,39,24
+West Bengal,Hypertension,2014,0-10,166,83,35
+Bihar,HIV/AIDS,2009,31-40,553,29,49
+Tamil Nadu,Tuberculosis,2003,20-Nov,314,74,18
+Punjab,Tuberculosis,2022,51-60,826,80,48
+West Bengal,Tuberculosis,2014,51-60,136,45,30
+Kerala,HIV/AIDS,2012,31-40,690,21,40
+Gujarat,HIV/AIDS,2015,21-30,860,60,30
+Punjab,Diabetes,2001,20-Nov,754,26,2
+Uttar Pradesh,Cancer,2008,31-40,494,90,27
+Tamil Nadu,HIV/AIDS,2004,20-Nov,133,73,50
+Tamil Nadu,Dengue,2015,41-50,53,81,45
+West Bengal,Heart Disease,2010,21-30,34,70,50
+Karnataka,Malaria,2000,41-50,36,41,38
+West Bengal,Malaria,2017,0-10,630,23,30
+Maharashtra,Tuberculosis,2023,61+,779,27,7
+Karnataka,Cancer,2002,20-Nov,183,36,26
+Maharashtra,Cancer,2017,20-Nov,74,74,48
+Delhi,Heart Disease,2007,51-60,61,54,34
+Karnataka,COVID-19,2010,20-Nov,896,66,4
+Delhi,Cancer,2018,31-40,921,16,18
+Delhi,Asthma,2019,31-40,606,95,41
+Gujarat,Asthma,2002,0-10,872,44,3
+Tamil Nadu,Heart Disease,2021,51-60,793,58,47
+Maharashtra,HIV/AIDS,2016,41-50,519,96,6
+Punjab,Asthma,2009,51-60,875,75,49
+Punjab,Dengue,2009,61+,358,72,16
+Delhi,Diabetes,2024,21-30,62,94,13
+Uttar Pradesh,Dengue,2003,31-40,17,56,50
+Delhi,Hypertension,2001,20-Nov,644,12,2
+Tamil Nadu,Heart Disease,2014,0-10,343,7,35
+Gujarat,Dengue,2022,41-50,841,67,11
+Karnataka,Tuberculosis,2012,21-30,719,84,19
+Tamil Nadu,Tuberculosis,2002,20-Nov,62,87,44
+Punjab,HIV/AIDS,2000,31-40,231,61,3
+Maharashtra,Dengue,2024,0-10,70,66,16
+Punjab,Dengue,2022,21-30,109,68,45
+West Bengal,Dengue,2004,0-10,121,4,45
+Maharashtra,Diabetes,2005,20-Nov,668,41,20
+Karnataka,Heart Disease,2002,61+,427,84,33
+Maharashtra,HIV/AIDS,2009,31-40,691,19,37
+Karnataka,Asthma,2010,61+,35,92,33
+West Bengal,Heart Disease,2018,41-50,102,0,36
+Delhi,Cancer,2023,0-10,251,33,2
+Gujarat,Asthma,2013,21-30,175,3,44
+Punjab,Malaria,2006,41-50,584,78,48
+Maharashtra,COVID-19,2021,51-60,472,71,38
+West Bengal,Tuberculosis,2023,51-60,301,76,14
+Tamil Nadu,Heart Disease,2007,41-50,207,32,42
+West Bengal,Hypertension,2012,61+,835,96,43
+Maharashtra,Diabetes,2004,51-60,421,66,26
+Karnataka,Dengue,2004,20-Nov,61,54,30
+Tamil Nadu,COVID-19,2008,31-40,388,69,4
+West Bengal,Asthma,2016,41-50,160,60,4
+Kerala,Heart Disease,2020,20-Nov,278,22,27
+Punjab,Diabetes,2006,20-Nov,533,32,12
+Tamil Nadu,Dengue,2001,61+,44,10,49
+West Bengal,Asthma,2017,41-50,442,71,12
+Karnataka,Hypertension,2018,20-Nov,229,77,27
+Delhi,Dengue,2017,61+,131,66,38
+Delhi,Heart Disease,2010,51-60,272,30,34
+Karnataka,Asthma,2004,31-40,690,88,47
+Punjab,Tuberculosis,2016,31-40,981,21,44
+Delhi,Tuberculosis,2013,51-60,150,64,23
+Delhi,COVID-19,2005,21-30,177,29,38
+Uttar Pradesh,Dengue,2014,20-Nov,485,7,48
+Delhi,Diabetes,2011,21-30,944,63,29
+Delhi,Malaria,2002,20-Nov,493,93,45
+Kerala,Tuberculosis,2010,20-Nov,64,87,15
+Kerala,Tuberculosis,2004,41-50,814,44,1
+Gujarat,Heart Disease,2024,31-40,669,78,32
+Kerala,Cancer,2016,20-Nov,100,22,36
+Gujarat,Malaria,2020,20-Nov,832,64,16
+Gujarat,Malaria,2018,51-60,911,58,9
+Delhi,COVID-19,2007,20-Nov,117,48,22
+Delhi,Diabetes,2013,0-10,59,40,32
+Kerala,Asthma,2015,20-Nov,146,73,48
+Uttar Pradesh,Hypertension,2015,41-50,248,9,8
+Delhi,HIV/AIDS,2023,41-50,40,51,16
+Punjab,Asthma,2006,51-60,730,26,2
+Tamil Nadu,HIV/AIDS,2004,31-40,41,88,47
+Maharashtra,Dengue,2012,61+,841,11,1
+West Bengal,COVID-19,2007,21-30,892,37,48
+Kerala,Heart Disease,2008,20-Nov,52,24,22
+Karnataka,Hypertension,2006,61+,301,74,17
+Punjab,COVID-19,2008,20-Nov,488,90,33
+Gujarat,Heart Disease,2011,51-60,438,59,49
+West Bengal,Malaria,2002,41-50,598,64,1
+Delhi,Asthma,2008,0-10,700,93,17
+Kerala,Hypertension,2002,51-60,971,24,33
+Delhi,Diabetes,2002,20-Nov,823,25,43
+Punjab,COVID-19,2009,61+,123,33,50
+Kerala,Asthma,2024,41-50,268,15,24
+Tamil Nadu,Diabetes,2002,20-Nov,133,99,48
+Bihar,Malaria,2010,41-50,129,70,45
+Uttar Pradesh,Heart Disease,2009,61+,331,34,22
+Gujarat,Hypertension,2009,31-40,191,78,30
+Punjab,Tuberculosis,2017,0-10,38,70,37
+Bihar,Hypertension,2024,61+,223,18,43
+Gujarat,Dengue,2017,21-30,902,40,10
+Punjab,Cancer,2000,31-40,490,4,36
+Karnataka,Heart Disease,2012,31-40,919,47,42
+Delhi,Hypertension,2000,41-50,313,1,15
+Delhi,COVID-19,2008,20-Nov,104,62,33
+Uttar Pradesh,HIV/AIDS,2001,20-Nov,906,55,21
+Uttar Pradesh,Cancer,2014,61+,140,93,39
+Kerala,HIV/AIDS,2005,61+,57,43,48
+Maharashtra,Diabetes,2007,41-50,215,71,28
+Gujarat,Tuberculosis,2002,61+,829,88,30
+Tamil Nadu,Cancer,2009,20-Nov,209,72,20
+Gujarat,Asthma,2010,41-50,419,65,46
+Delhi,Tuberculosis,2004,21-30,640,95,27
+Karnataka,Tuberculosis,2024,41-50,34,38,37
+Delhi,Heart Disease,2023,0-10,190,94,36
+Maharashtra,Tuberculosis,2020,61+,645,77,25
+Gujarat,HIV/AIDS,2021,41-50,782,57,16
+Gujarat,Dengue,2024,31-40,333,4,3
+West Bengal,Heart Disease,2017,51-60,575,3,47
+Karnataka,COVID-19,2022,20-Nov,650,72,34
+Bihar,Cancer,2005,20-Nov,19,95,37
+Kerala,Hypertension,2002,21-30,644,40,25
+Uttar Pradesh,COVID-19,2015,51-60,548,76,35
+Uttar Pradesh,Hypertension,2005,61+,747,15,10
+Kerala,HIV/AIDS,2009,41-50,967,71,27
+West Bengal,Asthma,2005,20-Nov,477,75,19
+Maharashtra,Malaria,2015,61+,915,1,27
+Bihar,HIV/AIDS,2004,51-60,850,36,32
+West Bengal,Tuberculosis,2021,61+,719,72,33
+Bihar,HIV/AIDS,2014,31-40,798,13,46
+Bihar,Malaria,2010,41-50,924,23,32
+Kerala,Malaria,2019,0-10,178,4,28
+Karnataka,Cancer,2019,51-60,613,71,45
+Karnataka,Hypertension,2005,31-40,560,5,42
+Delhi,Dengue,2001,0-10,453,80,38
+Punjab,Hypertension,2000,0-10,841,29,45
+Karnataka,Diabetes,2010,0-10,146,69,5
+Tamil Nadu,Cancer,2014,21-30,141,58,18
+Tamil Nadu,HIV/AIDS,2014,20-Nov,436,9,4
+Tamil Nadu,Malaria,2010,51-60,781,28,10
+Kerala,Diabetes,2021,21-30,492,13,43
+Uttar Pradesh,Dengue,2014,31-40,528,48,45
+Delhi,Hypertension,2017,31-40,809,27,42
+Karnataka,HIV/AIDS,2007,31-40,64,26,33
+Delhi,Hypertension,2012,31-40,774,33,13
+Punjab,Dengue,2022,61+,388,43,2
+Delhi,Dengue,2003,20-Nov,474,33,49
+West Bengal,Cancer,2021,20-Nov,575,54,28
+Uttar Pradesh,COVID-19,2014,31-40,860,41,39
+Punjab,HIV/AIDS,2023,0-10,188,1,10
+Gujarat,Heart Disease,2020,41-50,624,91,46
+Delhi,Hypertension,2020,20-Nov,492,76,10
+West Bengal,Malaria,2022,61+,683,26,42
+West Bengal,Diabetes,2015,20-Nov,363,71,3
+Punjab,HIV/AIDS,2004,0-10,772,1,48
+Tamil Nadu,Malaria,2001,0-10,330,90,40
+Maharashtra,Cancer,2001,20-Nov,335,79,43
+Karnataka,HIV/AIDS,2001,21-30,476,89,28
+Maharashtra,Diabetes,2022,21-30,807,11,26
+Maharashtra,COVID-19,2018,20-Nov,72,60,50
+Bihar,Diabetes,2019,51-60,739,100,11
+Karnataka,Dengue,2023,41-50,362,36,34
+Gujarat,Tuberculosis,2012,61+,48,89,38
+West Bengal,Heart Disease,2006,21-30,873,23,34
+Karnataka,Dengue,2002,0-10,189,1,19
+Maharashtra,Asthma,2023,0-10,46,72,32
+West Bengal,Tuberculosis,2011,21-30,565,61,6
+Bihar,Diabetes,2001,51-60,895,36,8
+Kerala,Malaria,2021,41-50,384,11,11
+Karnataka,Malaria,2021,51-60,805,1,42
+Punjab,HIV/AIDS,2002,0-10,671,87,49
+Kerala,Diabetes,2015,31-40,582,94,11
+West Bengal,Heart Disease,2021,41-50,459,14,22
+West Bengal,Dengue,2000,31-40,949,98,39
+Punjab,HIV/AIDS,2007,51-60,658,18,40
+Tamil Nadu,COVID-19,2009,61+,505,4,26
+Maharashtra,Diabetes,2018,61+,435,93,3
+Gujarat,Asthma,2022,20-Nov,368,52,25
+Bihar,Asthma,2022,21-30,931,60,35
+Bihar,HIV/AIDS,2002,0-10,683,83,32
+Tamil Nadu,Heart Disease,2006,21-30,270,8,28
+Tamil Nadu,HIV/AIDS,2023,61+,571,86,23
+Punjab,Tuberculosis,2015,61+,401,99,39
+Maharashtra,Diabetes,2014,31-40,939,45,25
+Bihar,Dengue,2000,41-50,947,33,36
+Gujarat,HIV/AIDS,2003,20-Nov,971,50,4
+Tamil Nadu,Hypertension,2019,21-30,531,69,49
+Punjab,Malaria,2023,61+,84,99,25
+Punjab,Asthma,2003,21-30,745,34,49
+Kerala,HIV/AIDS,2020,20-Nov,706,94,44
+Maharashtra,HIV/AIDS,2022,41-50,805,37,36
+Delhi,Hypertension,2011,41-50,30,26,11
+Karnataka,Diabetes,2014,20-Nov,775,11,50
+Gujarat,Cancer,2014,41-50,904,51,23
+Gujarat,Tuberculosis,2019,21-30,850,29,4
+Gujarat,Asthma,2011,31-40,609,69,1
+Bihar,Cancer,2016,0-10,599,8,34
+Uttar Pradesh,Cancer,2008,0-10,830,22,32
+Bihar,Tuberculosis,2019,41-50,172,100,20
+West Bengal,Heart Disease,2018,61+,872,5,8
+Gujarat,HIV/AIDS,2005,20-Nov,739,1,5
+Delhi,Asthma,2018,31-40,61,48,16
+Bihar,Cancer,2002,0-10,876,67,45
+Kerala,HIV/AIDS,2001,31-40,92,15,8
+Tamil Nadu,Dengue,2018,61+,27,1,23
+Bihar,Malaria,2012,21-30,219,95,22
+Maharashtra,Asthma,2005,31-40,648,1,30
+Bihar,Hypertension,2012,20-Nov,830,32,45
+West Bengal,Diabetes,2018,20-Nov,287,18,24
+Uttar Pradesh,Hypertension,2014,31-40,970,71,46
+Maharashtra,Asthma,2024,0-10,653,48,9
+Uttar Pradesh,Malaria,2000,61+,69,70,11
+Kerala,Asthma,2001,20-Nov,701,16,22
+Karnataka,Diabetes,2004,0-10,869,0,6
+West Bengal,Hypertension,2009,51-60,562,63,6
+West Bengal,Hypertension,2003,51-60,976,9,4
+Bihar,COVID-19,2001,61+,379,24,17
+Maharashtra,HIV/AIDS,2019,51-60,912,20,25
+Uttar Pradesh,Cancer,2005,51-60,99,65,9
+Uttar Pradesh,Heart Disease,2005,0-10,862,44,24
+Delhi,Heart Disease,2023,20-Nov,682,85,13
+Karnataka,Heart Disease,2006,20-Nov,418,39,35
+Tamil Nadu,Malaria,2006,20-Nov,493,59,26
+Punjab,Asthma,2012,41-50,229,44,7
+Bihar,HIV/AIDS,2012,31-40,452,89,42
+Punjab,Malaria,2014,31-40,830,49,38
+Punjab,Malaria,2015,0-10,81,1,48
+Punjab,HIV/AIDS,2007,20-Nov,487,34,18
+Delhi,Dengue,2018,51-60,242,88,14
+Bihar,Asthma,2024,41-50,41,33,34
+West Bengal,Asthma,2018,61+,217,1,10
+Uttar Pradesh,Tuberculosis,2004,51-60,66,90,11
+Bihar,Dengue,2015,20-Nov,88,98,49
+Uttar Pradesh,Tuberculosis,2020,21-30,369,76,50
+Delhi,HIV/AIDS,2024,0-10,322,1,30
+Tamil Nadu,Malaria,2024,20-Nov,132,93,11
+Maharashtra,Asthma,2013,21-30,384,40,5
+Delhi,Cancer,2018,31-40,224,61,12
+West Bengal,Heart Disease,2023,61+,421,37,44
+Karnataka,Tuberculosis,2006,20-Nov,73,90,39
+Karnataka,Malaria,2022,51-60,342,84,45
+Maharashtra,Diabetes,2021,20-Nov,529,9,13
+Gujarat,Diabetes,2009,0-10,695,85,39
+Delhi,Diabetes,2015,31-40,316,89,47
+Tamil Nadu,HIV/AIDS,2022,61+,171,28,44
+Bihar,Cancer,2012,51-60,165,22,17
+Uttar Pradesh,HIV/AIDS,2020,51-60,348,63,22
+Maharashtra,Hypertension,2003,0-10,113,75,6
+West Bengal,Dengue,2006,21-30,332,21,23
+Maharashtra,Tuberculosis,2011,61+,241,23,25
+Maharashtra,Hypertension,2014,51-60,471,61,32
+Punjab,Hypertension,2017,51-60,443,97,50
+Punjab,COVID-19,2009,31-40,871,53,12
+Tamil Nadu,Diabetes,2007,31-40,892,66,39
+Bihar,Asthma,2022,31-40,750,79,30
+Karnataka,HIV/AIDS,2017,41-50,399,61,32
+Punjab,Dengue,2023,61+,546,65,39
+Bihar,Hypertension,2001,0-10,653,69,26
+Bihar,Diabetes,2006,31-40,580,29,21
+Tamil Nadu,Heart Disease,2024,41-50,578,82,29
+West Bengal,Dengue,2018,20-Nov,751,97,35
+West Bengal,Tuberculosis,2022,21-30,459,9,24
+Maharashtra,Hypertension,2020,41-50,611,8,29
+Gujarat,HIV/AIDS,2021,31-40,884,3,11
+Maharashtra,Dengue,2016,20-Nov,375,32,46
+Uttar Pradesh,Diabetes,2023,0-10,65,79,2
+Tamil Nadu,COVID-19,2022,31-40,561,25,27
+Gujarat,Diabetes,2017,20-Nov,190,4,18
+Tamil Nadu,Dengue,2005,41-50,301,56,26
+Tamil Nadu,Asthma,2010,51-60,566,90,21
+Maharashtra,Malaria,2001,21-30,586,2,2
+Uttar Pradesh,Cancer,2005,41-50,518,81,46
+Bihar,HIV/AIDS,2020,0-10,445,18,6
+Punjab,Diabetes,2004,20-Nov,933,12,37
+Bihar,Malaria,2023,51-60,581,5,12
+Bihar,HIV/AIDS,2019,31-40,959,63,9
+Uttar Pradesh,Hypertension,2009,31-40,26,67,39
+Punjab,Asthma,2000,0-10,993,66,2
+West Bengal,Cancer,2002,21-30,200,38,9
+Uttar Pradesh,Diabetes,2009,31-40,66,30,40
+Punjab,Tuberculosis,2001,51-60,423,33,14
+Karnataka,Cancer,2010,61+,707,83,1
+Punjab,HIV/AIDS,2007,20-Nov,677,40,25
+Delhi,Malaria,2012,0-10,786,5,12
+Karnataka,Cancer,2017,41-50,589,18,46
+Tamil Nadu,COVID-19,2005,31-40,536,99,40
+West Bengal,Malaria,2020,21-30,181,59,31
+Bihar,Heart Disease,2007,51-60,822,74,39
+Punjab,HIV/AIDS,2009,20-Nov,562,58,48
+Punjab,Cancer,2024,51-60,795,5,16
+West Bengal,COVID-19,2016,51-60,355,40,15
+Punjab,Diabetes,2019,0-10,543,25,47
+Kerala,HIV/AIDS,2012,21-30,297,54,13
+Tamil Nadu,Heart Disease,2005,31-40,161,43,12
+Delhi,Diabetes,2016,51-60,802,20,38
+West Bengal,Malaria,2008,41-50,686,90,16
+Tamil Nadu,Asthma,2015,0-10,774,2,1
+Kerala,Diabetes,2022,31-40,273,99,2
+Karnataka,COVID-19,2015,61+,986,88,26
+Kerala,Cancer,2000,0-10,731,77,23
+Gujarat,Malaria,2014,21-30,30,79,17
+West Bengal,Dengue,2022,21-30,545,28,34
+Kerala,HIV/AIDS,2014,61+,451,72,2
+Uttar Pradesh,Hypertension,2019,20-Nov,10,35,18
+Uttar Pradesh,HIV/AIDS,2012,31-40,986,23,5
+Bihar,COVID-19,2022,0-10,590,9,50
+Kerala,Asthma,2022,51-60,146,10,13
+West Bengal,Asthma,2011,41-50,279,17,2
+Bihar,Diabetes,2010,61+,253,48,47
+Uttar Pradesh,Dengue,2020,0-10,345,13,38
+Maharashtra,Malaria,2007,51-60,115,78,50
+Punjab,Cancer,2005,61+,946,87,2
+Maharashtra,Cancer,2022,21-30,850,72,14
+Uttar Pradesh,Diabetes,2005,41-50,946,72,27
+Maharashtra,COVID-19,2010,41-50,666,30,26
+Delhi,Malaria,2019,31-40,591,85,46
+Punjab,Asthma,2000,41-50,600,11,11
+Kerala,Hypertension,2019,51-60,906,41,21
+Gujarat,Diabetes,2011,0-10,939,50,4
+Kerala,Hypertension,2018,0-10,841,75,33
+Uttar Pradesh,Cancer,2007,61+,788,53,36
+West Bengal,Diabetes,2012,20-Nov,430,76,28
+Maharashtra,Tuberculosis,2016,51-60,529,81,37
+Delhi,Malaria,2021,21-30,66,45,25
+West Bengal,Tuberculosis,2022,20-Nov,215,94,36
+Tamil Nadu,Cancer,2005,41-50,421,11,2
+Gujarat,Heart Disease,2002,21-30,221,78,15
+Kerala,Asthma,2014,41-50,170,56,34
+Uttar Pradesh,Tuberculosis,2015,31-40,558,55,11
+Gujarat,HIV/AIDS,2020,31-40,149,100,40
+Uttar Pradesh,HIV/AIDS,2009,51-60,31,83,15
+Maharashtra,Cancer,2015,31-40,297,20,20
+Karnataka,HIV/AIDS,2016,31-40,782,37,33
+Delhi,Asthma,2004,61+,707,41,11
+West Bengal,Cancer,2003,21-30,968,50,43
+Maharashtra,HIV/AIDS,2004,0-10,631,53,21
+Gujarat,Malaria,2017,41-50,486,55,23
+Tamil Nadu,Malaria,2017,61+,718,89,46
+Gujarat,HIV/AIDS,2003,21-30,982,5,34
+West Bengal,COVID-19,2017,61+,776,78,43
+Delhi,HIV/AIDS,2015,20-Nov,774,98,15
+Bihar,Diabetes,2008,61+,26,78,12
+Punjab,Dengue,2022,61+,713,63,35
+Uttar Pradesh,Asthma,2010,51-60,993,36,29
+Uttar Pradesh,Hypertension,2017,20-Nov,527,5,26
+Delhi,COVID-19,2004,20-Nov,220,87,21
+Karnataka,Diabetes,2021,61+,225,77,10
+Bihar,Cancer,2005,0-10,282,97,3
+Bihar,Tuberculosis,2009,20-Nov,57,71,29
+Uttar Pradesh,Dengue,2020,31-40,22,12,23
+Gujarat,Diabetes,2018,61+,276,2,47
+Kerala,Asthma,2021,51-60,756,86,24
+Delhi,COVID-19,2000,51-60,576,72,14
+Kerala,Dengue,2023,41-50,55,28,8
+Delhi,COVID-19,2015,21-30,314,85,18
+Gujarat,Cancer,2013,31-40,726,28,46
+Uttar Pradesh,Diabetes,2022,31-40,265,60,43
+Punjab,Cancer,2022,21-30,325,77,6
+Tamil Nadu,Dengue,2018,31-40,904,43,31
+Tamil Nadu,Asthma,2020,41-50,835,33,25
+West Bengal,Cancer,2022,20-Nov,348,9,2
+Gujarat,Diabetes,2018,0-10,314,91,35
+West Bengal,HIV/AIDS,2011,20-Nov,345,11,7
+Kerala,Asthma,2001,61+,126,7,10
+Karnataka,Hypertension,2015,0-10,731,58,24
+Kerala,Malaria,2024,61+,211,95,20
+Bihar,Hypertension,2002,51-60,554,38,12
+Tamil Nadu,Malaria,2016,51-60,801,38,12
+Maharashtra,HIV/AIDS,2005,20-Nov,222,92,19
+Bihar,COVID-19,2012,51-60,119,50,48
+Kerala,Cancer,2007,31-40,805,55,18
+West Bengal,Malaria,2008,31-40,76,88,22
+Kerala,Asthma,2020,51-60,467,15,6
+Gujarat,Malaria,2015,51-60,57,46,48
+Uttar Pradesh,Heart Disease,2023,0-10,534,81,24
+Punjab,Diabetes,2019,41-50,503,51,28
+Tamil Nadu,Malaria,2016,51-60,920,99,11
+Karnataka,Malaria,2007,51-60,106,72,34
+Maharashtra,Malaria,2003,61+,220,26,20
+Punjab,Cancer,2007,31-40,676,69,33
+Gujarat,Dengue,2007,20-Nov,253,71,15
+Tamil Nadu,Heart Disease,2015,0-10,834,73,5
+Maharashtra,Diabetes,2003,41-50,235,4,15
+West Bengal,COVID-19,2016,0-10,903,20,13
+Bihar,Diabetes,2019,31-40,852,30,39
+Maharashtra,Heart Disease,2013,61+,347,80,20
+West Bengal,Dengue,2010,61+,378,28,8
+Tamil Nadu,Diabetes,2012,41-50,910,90,37
+Maharashtra,HIV/AIDS,2022,61+,791,36,8
+Karnataka,COVID-19,2015,51-60,187,27,21
+Gujarat,COVID-19,2000,21-30,153,11,1
+Maharashtra,Dengue,2003,21-30,547,46,14
+Karnataka,Malaria,2022,41-50,478,38,44
+Karnataka,Tuberculosis,2014,0-10,40,30,18
+Maharashtra,HIV/AIDS,2021,61+,890,69,6
+West Bengal,Dengue,2018,41-50,670,7,37
+Punjab,Asthma,2019,41-50,454,19,32
+Tamil Nadu,Malaria,2013,41-50,792,26,10
+Kerala,Hypertension,2012,0-10,451,40,45
+Karnataka,Heart Disease,2001,51-60,297,55,50
+Karnataka,COVID-19,2015,61+,137,54,1
+Gujarat,Dengue,2020,0-10,519,80,36
+West Bengal,Tuberculosis,2000,51-60,546,72,44
+West Bengal,Hypertension,2009,21-30,224,56,27
+Karnataka,Tuberculosis,2020,0-10,181,44,1
+Punjab,Asthma,2010,61+,798,88,47
+Punjab,Dengue,2013,61+,398,12,3
+Uttar Pradesh,Malaria,2007,61+,924,49,20
+Delhi,Hypertension,2004,0-10,763,88,33
+Maharashtra,Dengue,2006,21-30,70,63,15
+Bihar,Malaria,2008,21-30,359,99,34
+Karnataka,COVID-19,2004,41-50,739,66,25
+Punjab,HIV/AIDS,2008,51-60,210,0,14
+Kerala,Asthma,2024,51-60,961,18,2
+West Bengal,Malaria,2021,31-40,570,52,50
+West Bengal,Tuberculosis,2007,20-Nov,526,83,28
+Delhi,COVID-19,2014,61+,47,93,29
+Punjab,Heart Disease,2017,61+,177,89,22
+Tamil Nadu,Asthma,2024,41-50,455,51,50
+Uttar Pradesh,Heart Disease,2020,0-10,508,45,28
+Punjab,Hypertension,2020,51-60,127,6,44
+Uttar Pradesh,Cancer,2017,61+,204,68,46
+Punjab,Tuberculosis,2016,31-40,103,82,7
+Punjab,Diabetes,2015,0-10,699,31,3
+West Bengal,Malaria,2000,41-50,46,15,33
+West Bengal,HIV/AIDS,2016,0-10,425,57,48
+Bihar,Tuberculosis,2005,41-50,865,9,37
+Maharashtra,Dengue,2022,51-60,578,42,16
+Delhi,Diabetes,2016,21-30,844,66,19
+Karnataka,Asthma,2022,21-30,863,62,31
+Delhi,Cancer,2001,0-10,175,68,7
+Punjab,COVID-19,2013,31-40,57,81,36
+Kerala,Malaria,2018,31-40,708,33,14
+Uttar Pradesh,Hypertension,2004,20-Nov,969,41,10
+Kerala,COVID-19,2004,41-50,12,17,48
+Kerala,Tuberculosis,2008,0-10,183,11,8
+Punjab,Malaria,2010,31-40,303,24,11
+Delhi,COVID-19,2021,0-10,786,63,28
+Tamil Nadu,Diabetes,2001,51-60,171,73,28
+Gujarat,HIV/AIDS,2023,41-50,756,95,17
+Uttar Pradesh,Tuberculosis,2019,41-50,186,7,50
+Karnataka,Cancer,2012,41-50,292,74,3
+Tamil Nadu,Malaria,2024,20-Nov,77,46,38
+West Bengal,Heart Disease,2015,20-Nov,391,0,3
+Maharashtra,Malaria,2013,20-Nov,295,59,17
+West Bengal,Cancer,2014,31-40,808,64,15
+Delhi,Tuberculosis,2005,61+,645,42,20
